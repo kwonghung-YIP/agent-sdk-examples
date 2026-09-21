@@ -1,0 +1,13 @@
+{
+    "uuid": "66b1524f-0b38-4e83-b3bd-ea696548bdb1",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Let's refresh"
+        }
+    },
+    "parent_tool_use_id": null
+}

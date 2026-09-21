@@ -1,0 +1,30 @@
+{
+    "subtype": "task_progress",
+    "data": {
+        "type": "system",
+        "subtype": "task_progress",
+        "task_id": "a9ab9fb42c9819777",
+        "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+        "description": "Fetching https://www.lg.com/us/4k-monitors",
+        "subagent_type": "market-research-pc-monitor",
+        "usage": {
+            "total_tokens": 18363,
+            "tool_uses": 8,
+            "duration_ms": 20270
+        },
+        "last_tool_name": "WebFetch",
+        "uuid": "a0be4bca-731e-4794-b353-6e59bb3dfc1b",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    },
+    "task_id": "a9ab9fb42c9819777",
+    "description": "Fetching https://www.lg.com/us/4k-monitors",
+    "usage": {
+        "total_tokens": 18363,
+        "tool_uses": 8,
+        "duration_ms": 20270
+    },
+    "uuid": "a0be4bca-731e-4794-b353-6e59bb3dfc1b",
+    "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa",
+    "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+    "last_tool_name": "WebFetch"
+}

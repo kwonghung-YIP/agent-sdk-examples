@@ -1,0 +1,13 @@
+{
+    "uuid": "61fbfa2b-dfd1-453b-af9a-7ddc5f5084e6",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " PM. That"
+        }
+    },
+    "parent_tool_use_id": null
+}

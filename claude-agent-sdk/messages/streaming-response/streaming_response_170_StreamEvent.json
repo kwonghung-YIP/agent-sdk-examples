@@ -1,0 +1,13 @@
+{
+    "uuid": "bbc4b340-bc7a-4d1c-883a-1dd7ee11e2f4",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " first production release?"
+        }
+    },
+    "parent_tool_use_id": null
+}

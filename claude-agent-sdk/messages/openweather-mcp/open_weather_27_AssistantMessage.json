@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "Good, the tools are now loaded. Now I'll call them to get the current location and weather information.",
+            "signature": "EvwCCrIBCBEYAipAJ1UG33rhp0NT4PJrpph9z9YLVGxRJHIh3bPscr5+rzxqrvyE7/Falhio2po2k5v49XjVS6WUasJoF1FaPgTHITIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAH98YfVBrABAhIMkToyLJH7PIgzud8nGgyfRgCl7mBxAZmWotoiMBzsHfH/3VY35Lkoe2qLhcXf7xqW+HWDCUA0n8LKRoeylfJCrusi2lF5zqGOiS9iXyp3bl9bvbbEufxw9Xr0t154YGOmNvuxXOPl8jC37LUVZxtR1gV0N8sjw78zfooEbxJ1MXi+ZH8sZNYFVL2L9xQC0KO2lekt3+j5zUrF58ZjMqBc2CL3ugFmbDUCExZsc5s3kE5d9K4ZvQ5/JaEl3Fd+qPboeK4twXQYAQ=="
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 462,
+        "cache_read_input_tokens": 14184,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 462,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CetoqqcWrfGEaEu5Mrbz6",
+    "stop_reason": null,
+    "session_id": "5b271c8c-51f3-46b9-b9bd-1a6a0474cf87",
+    "uuid": "d3cd58c9-1e7e-4cb0-a4e8-00c121f6b46d"
+}

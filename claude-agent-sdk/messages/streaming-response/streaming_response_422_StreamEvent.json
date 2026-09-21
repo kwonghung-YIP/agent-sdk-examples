@@ -1,0 +1,13 @@
+{
+    "uuid": "6165b41b-992c-478d-be5c-97d355a0704c",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " I didn"
+        }
+    },
+    "parent_tool_use_id": null
+}

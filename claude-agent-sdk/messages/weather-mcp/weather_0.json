@@ -1,0 +1,41 @@
+{
+    "subtype": "success",
+    "duration_ms": 90,
+    "duration_api_ms": 0,
+    "is_error": true,
+    "num_turns": 1,
+    "session_id": "6287d6d8-f883-4f28-b915-b06cd213bef7",
+    "stop_reason": "stop_sequence",
+    "total_cost_usd": 0,
+    "usage": {
+        "output_tokens_details": {
+            "thinking_tokens": 0
+        },
+        "input_tokens": 0,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "output_tokens": 0,
+        "server_tool_use": {
+            "web_search_requests": 0,
+            "web_fetch_requests": 0
+        },
+        "service_tier": "standard",
+        "cache_creation": {
+            "ephemeral_1h_input_tokens": 0,
+            "ephemeral_5m_input_tokens": 0
+        },
+        "inference_geo": "",
+        "iterations": [],
+        "speed": "standard"
+    },
+    "result": "Not logged in \u00b7 Please run /login",
+    "structured_output": null,
+    "model_usage": {},
+    "permission_denials": [],
+    "deferred_tool_use": null,
+    "errors": null,
+    "api_error_status": null,
+    "uuid": "f355069e-5f6f-444b-82db-af2847790738",
+    "terminal_reason": "api_error",
+    "origin": null
+}

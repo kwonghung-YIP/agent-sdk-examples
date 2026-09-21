@@ -1,0 +1,13 @@
+{
+    "uuid": "fa437cd9-f8d0-4bda-a214-24c392299b92",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": "eans against"
+        }
+    },
+    "parent_tool_use_id": null
+}

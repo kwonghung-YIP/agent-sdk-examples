@@ -1,0 +1,61 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_014aFT2BVwQbESo7BcmG6ixV",
+            "content": "Web search results for query: \"Samsung Odyssey OLED G80SH 4K price GBP pounds UK\"\n\nLinks: [{\"title\":\"Samsung Odyssey G8 S32DG802 32\\\" Gaming 4K UHD OLED 240Hz - PriceSpy UK\",\"url\":\"https://pricespy.co.uk/product.php?p=13620795\"},{\"title\":\"Samsung Odyssey G80SH Officially Launched - a New 32\\\" 4K Penta Tandem QD-OLED Monitor - TFTCentral\",\"url\":\"https://tftcentral.co.uk/news/samsung-odyssey-g80sh-officially-launched-a-new-32-4k-penta-tandem-qd-oled-monitor\"},{\"title\":\"32 Inch Odyssey OLED G8 G80SH 4K Gaming Monitor | Samsung US\",\"url\":\"https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-oled-g8-g80sh-4k-gaming-monitor-sku-ls32hg802snxza/\"},{\"title\":\"27 Inch Odyssey OLED G8 G80SH 4K Gaming Monitor | Samsung US\",\"url\":\"https://www.samsung.com/us/monitors/gaming/27-inch-odyssey-oled-g8-g80sh-4k-gaming-monitor-sku-ls27hg802snxza/\"},{\"title\":\"32 inch Odyssey G8 G80SH 4K 240Hz Gaming Monitor | Samsung UK\",\"url\":\"https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g80sh-32-inch-4k-uhd-240hz-ls32hg802suxxu/\"},{\"title\":\"27 inch Odyssey G8 G80SH 4K 240Hz Gaming Monitor | Samsung UK\",\"url\":\"https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g80sh-27-inch-4k-uhd-240hz-ls27hg802suxxu/\"},{\"title\":\"Buy the 32 Inch Odyssey OLED G8 4K Gaming Monitor | Samsung UK\",\"url\":\"https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg802suxxu/\"},{\"title\":\"Samsung Odyssey OLED G8 G80SH 32\\\" 4K HDR 240 Hz LS32HG802SNXZA\",\"url\":\"https://www.bhphotovideo.com/c/product/1956812-REG/samsung_ls32hg802snxza_32_g80sh_odyssey_qd_oled.html\"},{\"title\":\"Samsung Odyssey OLED G8 (G80SH) | OLED-Info\",\"url\":\"https://www.oled-info.com/samsung-odyssey-oled-g8-g80sh\"}]\n\nBased on the search results, here's what I found regarding the Samsung Odyssey OLED G80SH 4K pricing in GBP:\n\nThere is no UK availability yet for the Samsung Odyssey OLED G80SH, though Samsung Germany has it listed at a price of \u20ac1,099 Euro with an ETA of 5 June 2026. \n\nFor reference, the 32-inch model is priced at $1,299.99 USD and the 27-inch model is $1,099.99 USD in the US market.\n\nSince the product is not yet available in the UK, there is no official GBP price established at this time. You may want to check back with Samsung UK or major UK retailers for updated availability and pricing information as the ETA approaches.\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks.",
+            "is_error": null
+        }
+    ],
+    "uuid": "1e34e230-3dd7-464c-95bb-6bd2339c56b0",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "query": "Samsung Odyssey OLED G80SH 4K price GBP pounds UK",
+        "results": [
+            {
+                "tool_use_id": "srvtoolu_01TSYo2EpwkLLEfYBTYwnnUy",
+                "content": [
+                    {
+                        "title": "Samsung Odyssey G8 S32DG802 32\" Gaming 4K UHD OLED 240Hz - PriceSpy UK",
+                        "url": "https://pricespy.co.uk/product.php?p=13620795"
+                    },
+                    {
+                        "title": "Samsung Odyssey G80SH Officially Launched - a New 32\" 4K Penta Tandem QD-OLED Monitor - TFTCentral",
+                        "url": "https://tftcentral.co.uk/news/samsung-odyssey-g80sh-officially-launched-a-new-32-4k-penta-tandem-qd-oled-monitor"
+                    },
+                    {
+                        "title": "32 Inch Odyssey OLED G8 G80SH 4K Gaming Monitor | Samsung US",
+                        "url": "https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-oled-g8-g80sh-4k-gaming-monitor-sku-ls32hg802snxza/"
+                    },
+                    {
+                        "title": "27 Inch Odyssey OLED G8 G80SH 4K Gaming Monitor | Samsung US",
+                        "url": "https://www.samsung.com/us/monitors/gaming/27-inch-odyssey-oled-g8-g80sh-4k-gaming-monitor-sku-ls27hg802snxza/"
+                    },
+                    {
+                        "title": "32 inch Odyssey G8 G80SH 4K 240Hz Gaming Monitor | Samsung UK",
+                        "url": "https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g80sh-32-inch-4k-uhd-240hz-ls32hg802suxxu/"
+                    },
+                    {
+                        "title": "27 inch Odyssey G8 G80SH 4K 240Hz Gaming Monitor | Samsung UK",
+                        "url": "https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g80sh-27-inch-4k-uhd-240hz-ls27hg802suxxu/"
+                    },
+                    {
+                        "title": "Buy the 32 Inch Odyssey OLED G8 4K Gaming Monitor | Samsung UK",
+                        "url": "https://www.samsung.com/uk/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg802suxxu/"
+                    },
+                    {
+                        "title": "Samsung Odyssey OLED G8 G80SH 32\" 4K HDR 240 Hz LS32HG802SNXZA",
+                        "url": "https://www.bhphotovideo.com/c/product/1956812-REG/samsung_ls32hg802snxza_32_g80sh_odyssey_qd_oled.html"
+                    },
+                    {
+                        "title": "Samsung Odyssey OLED G8 (G80SH) | OLED-Info",
+                        "url": "https://www.oled-info.com/samsung-odyssey-oled-g8-g80sh"
+                    }
+                ]
+            },
+            "Based on the search results, here's what I found regarding the Samsung Odyssey OLED G80SH 4K pricing in GBP:\n\nThere is no UK availability yet for the Samsung Odyssey OLED G80SH, though Samsung Germany has it listed at a price of \u20ac1,099 Euro with an ETA of 5 June 2026. \n\nFor reference, the 32-inch model is priced at $1,299.99 USD and the 27-inch model is $1,099.99 USD in the US market.\n\nSince the product is not yet available in the UK, there is no official GBP price established at this time. You may want to check back with Samsung UK or major UK retailers for updated availability and pricing information as the ETA approaches."
+        ],
+        "durationSeconds": 4.357313161999999,
+        "searchCount": 1
+    },
+    "origin": null
+}

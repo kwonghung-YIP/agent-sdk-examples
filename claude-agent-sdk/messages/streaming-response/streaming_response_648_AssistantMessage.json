@@ -1,0 +1,26 @@
+{
+    "content": [
+        {
+            "text": "# The Night Shift Production Release \ud83c\udfa4\n\n*walks on stage*\n\nSo, uh, how many junior developers in here? Yeah? Cool. You guys remember your first production release? No? That's because you've blocked it out. It's like a childhood trauma, but with Docker containers.\n\n*pauses*\n\nSo I was a junior developer, right? And my first time pushing to production \u2013 OF COURSE it was at 11 PM on a Friday. Because apparently, that's when we decide to be brave. That's when we think, \"You know what? Let's live dangerously. Let's refresh the staging database while everyone's watching Netflix.\"\n\n*leans against the stage*\n\nMy senior developer was like, \"Hey, we need this feature live by Monday. Can you handle it?\" And I'm thinking, \"Handle it? I handle my apartment's thermostat, dude. That's about the extent of my handling abilities.\" But I said, \"Yeah, sure, no problem!\" Because that's what junior developers do \u2013 we say yes to everything. We're like golden retrievers, but with GitHub access.\n\n*starts pacing*\n\nSo 11 PM rolls around. The office is EMPTY. Like, abandon-ship empty. The Slack notifications have slowed down. Everyone's gone. It's just me, my laptop, and my crippling anxiety.\n\nI type:\n```\ngit push origin main\n```\n\nAnd I SWEAR, time slowed down. Like that was the slowest push in the history of Git. I could feel my heartbeat in my ears. My hands were shaking so bad I looked like I was trying to play the keyboard in a 90s nu-metal band. Very aggressive. Very chaotic.\n\n*does exaggerated shaking motions*\n\nThen... the deployment started. And there's ALWAYS that moment, right? Where you're waiting for the green checkmark? And everything's at 60% and you're like, \"Please, God, just... just give me the green checkmark. I'll be good. I promise.\"\n\nAnd THEN \u2013 because it's production \u2013 something breaks. Of course it does! It's like Murphy's Law for junior developers. If it CAN go wrong, it WILL go wrong. And usually at 11:47 PM. That's the magic time.\n\n*snaps fingers*\n\nSo I'm looking at the error logs, and it's in a file I didn't even KNOW existed. Like, where did this come from? Who CREATED this? I didn't write this! But apparently, my code broke it anyway. Like I'm some kind of digital virus.\n\n*pulls out phone, speaking frantically*\n\nAnd at this point, I'm texting my senior developer:\n\"Hey... so... something happened... nothing too serious... well, actually... the entire user authentication system is down... LOL... jk... unless...? How attached are you to having a working website?\"\n\n*pauses for effect*\n\nThe response came SO FAST. I didn't even know people CHECK Slack at 11:50 PM on a Friday. Apparently, they do when you break production.\n\n*suddenly shifts*\n\nSo he remote-in, and I'm explaining what happened. And he's doing that thing where he rubs his temples? And he's not angry, which is WORSE. Angry I can handle. But disappointment? That's a different kind of pain, man.\n\nHe says, \"What made you think this was a good idea?\" \n\nAnd I'm just there, sweating, trying to explain that I was following the tutorial I watched at 2 AM that ONE guy posted on YouTube. Apparently, that guy doesn't know what he's doing either.\n\n*shrugs dramatically*\n\nWe fixed it. It took two hours. Two. Hours. And every commit message was me frantically typing: \"Fix,\" \"Fix attempt 2,\" \"Actually revert that,\" \"Why is this still broken,\" \"I'm sorry Jesus take the wheel.\"\n\n*puts hands up*\n\nAnd the BEST part? Come Monday morning, the product manager asked me, \"So how'd the release go?\" \n\nAnd I'm like, \"Great! Smooth! Totally intentional! That 11:50 PM system-wide outage? Part of the user experience. Makes 'em feel like they're in a startup. Keeps them on their toes.\"\n\n*points to audience*\n\nHe didn't believe me either.\n\n*exits*\n\n---\n\nHope you enjoyed that! That's pretty much what every junior developer's first production release feels like. \ud83d\ude04"
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 14214,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 14214,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 4,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011Cf3EEoN45DwvG2DkTp8Q1",
+    "stop_reason": null,
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "uuid": "0c786a1b-0de4-418b-9fcd-737270d4b2cc"
+}

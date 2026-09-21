@@ -1,0 +1,10 @@
+{
+    "subtype": "background_tasks_changed",
+    "data": {
+        "type": "system",
+        "subtype": "background_tasks_changed",
+        "tasks": [],
+        "uuid": "241a5820-db56-46a2-a4e3-4eb7c39739a0",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    }
+}

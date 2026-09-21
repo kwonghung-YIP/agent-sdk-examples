@@ -1,0 +1,61 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01VANqMhzBhZtGnhrzwPHp5Q",
+            "content": "Web search results for query: \"Asus 4K monitor 2026 official site:asus.com\"\n\nLinks: [{\"title\":\"ASUS and Republic of Gamers Announce New Displays at Computex 2026 | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/asus-rog-computex-2026-new-displays-oled-proart-zenscreen/\"},{\"title\":\"ASUS and Republic of Gamers Redefine Visual Immersion at CES 2026 | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/asus-rog-ces-2026-displays/\"},{\"title\":\"ASUS Republic of Gamers Announces an Arsenal of New Gaming Gear and Peripherals for Competitive Players and Esports Pros at Gamescom 2026 | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/rog-gamescom-2026-all-new-gaming-gear/\"},{\"title\":\"ASUS Republic of Gamers Announces Next-Gen RGB OLED Technology at CES 2026 | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/rog-rgb-oled-ces-2026/\"},{\"title\":\"ASUS Announces ProArt Display OLED PA27USD and PA32USD | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/asus-proart-oled-pa27usd-pa32usd-4k-qd-oled-monitors/\"},{\"title\":\"ASUS Republic of Gamers Announces Next-Gen RGB OLED Technology at CES 2026 | News\uff5cASUS USA\",\"url\":\"https://www.asus.com/us/news/alifdqlupwdjxv9f/\"},{\"title\":\"4K Monitor - All Models\uff5cMonitors\uff5cASUS Global\",\"url\":\"https://www.asus.com/displays-desktops/monitors/all-series/filter?SubSeries=4K-Monitor\"},{\"title\":\"ASUS Announces ProArt Display OLED PA279CDV and PA329CDV | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/asus-proart-display-oled-pa279cdv-pa329cdv/\"},{\"title\":\"ASUS Announces Availability of ROG Strix and TUF Gaming Dual Mode Monitors | ASUS Pressroom - Official Global News & Updates\",\"url\":\"https://press.asus.com/news/press-releases/asus-rog-strix-tuf-gaming-4k-dual-mode-monitors/\"}]\n\nBased on the search results, here are the key ASUS 4K monitors announced in 2026:\n\n## Gaming Monitors\n\nThe ROG Swift OLED PG32UCDM Gen 3 is a 32-inch 4K QD-OLED monitor with 240Hz refresh rate, 0.03ms response time, and BlackShield film.\n\nThe ROG Strix XG27UCMG is the world's first 4K triple-mode gaming monitor.\n\nThe ROG Swift OLED PG27UCWM is a 26.5-inch Tandem RGB Stripe OLED monitor that offers 4K@240Hz or ultrafast FHD@480Hz with a 0.03ms response time.\n\n## Professional/Creative Monitors\n\nThe PA279CDV features a 26.5-inch 4K UHD QD-OLED panel with 99% DCI-P3 color gamut, Delta E<2 color accuracy, 1000-nits peak brightness, and a 120Hz refresh rate.\n\nThe ProArt Display 4K QD-OLED lineup includes the 31.5-inch PA32USD that delivers up to 240Hz refresh rate and 1000-nits peak brightness.\n\nThe 31.5-inch ProArt Display OLED PA32UCDMR-K and 26.5-inch PA27UCDMR are 4K UHD QD-OLED monitors that offer Delta E<1 accuracy, 1000-nits peak brightness, and 240Hz refresh rate.\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks.",
+            "is_error": null
+        }
+    ],
+    "uuid": "b3eea75d-4086-4286-b30f-df5390d53c39",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "query": "Asus 4K monitor 2026 official site:asus.com",
+        "results": [
+            {
+                "tool_use_id": "srvtoolu_01Vigy64W1wWYa628B2JyiNt",
+                "content": [
+                    {
+                        "title": "ASUS and Republic of Gamers Announce New Displays at Computex 2026 | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/asus-rog-computex-2026-new-displays-oled-proart-zenscreen/"
+                    },
+                    {
+                        "title": "ASUS and Republic of Gamers Redefine Visual Immersion at CES 2026 | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/asus-rog-ces-2026-displays/"
+                    },
+                    {
+                        "title": "ASUS Republic of Gamers Announces an Arsenal of New Gaming Gear and Peripherals for Competitive Players and Esports Pros at Gamescom 2026 | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/rog-gamescom-2026-all-new-gaming-gear/"
+                    },
+                    {
+                        "title": "ASUS Republic of Gamers Announces Next-Gen RGB OLED Technology at CES 2026 | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/rog-rgb-oled-ces-2026/"
+                    },
+                    {
+                        "title": "ASUS Announces ProArt Display OLED PA27USD and PA32USD | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/asus-proart-oled-pa27usd-pa32usd-4k-qd-oled-monitors/"
+                    },
+                    {
+                        "title": "ASUS Republic of Gamers Announces Next-Gen RGB OLED Technology at CES 2026 | News\uff5cASUS USA",
+                        "url": "https://www.asus.com/us/news/alifdqlupwdjxv9f/"
+                    },
+                    {
+                        "title": "4K Monitor - All Models\uff5cMonitors\uff5cASUS Global",
+                        "url": "https://www.asus.com/displays-desktops/monitors/all-series/filter?SubSeries=4K-Monitor"
+                    },
+                    {
+                        "title": "ASUS Announces ProArt Display OLED PA279CDV and PA329CDV | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/asus-proart-display-oled-pa279cdv-pa329cdv/"
+                    },
+                    {
+                        "title": "ASUS Announces Availability of ROG Strix and TUF Gaming Dual Mode Monitors | ASUS Pressroom - Official Global News & Updates",
+                        "url": "https://press.asus.com/news/press-releases/asus-rog-strix-tuf-gaming-4k-dual-mode-monitors/"
+                    }
+                ]
+            },
+            "Based on the search results, here are the key ASUS 4K monitors announced in 2026:\n\n## Gaming Monitors\n\nThe ROG Swift OLED PG32UCDM Gen 3 is a 32-inch 4K QD-OLED monitor with 240Hz refresh rate, 0.03ms response time, and BlackShield film.\n\nThe ROG Strix XG27UCMG is the world's first 4K triple-mode gaming monitor.\n\nThe ROG Swift OLED PG27UCWM is a 26.5-inch Tandem RGB Stripe OLED monitor that offers 4K@240Hz or ultrafast FHD@480Hz with a 0.03ms response time.\n\n## Professional/Creative Monitors\n\nThe PA279CDV features a 26.5-inch 4K UHD QD-OLED panel with 99% DCI-P3 color gamut, Delta E<2 color accuracy, 1000-nits peak brightness, and a 120Hz refresh rate.\n\nThe ProArt Display 4K QD-OLED lineup includes the 31.5-inch PA32USD that delivers up to 240Hz refresh rate and 1000-nits peak brightness.\n\nThe 31.5-inch ProArt Display OLED PA32UCDMR-K and 26.5-inch PA27UCDMR are 4K UHD QD-OLED monitors that offer Delta E<1 accuracy, 1000-nits peak brightness, and 240Hz refresh rate."
+        ],
+        "durationSeconds": 16.093059923000002,
+        "searchCount": 1
+    },
+    "origin": null
+}

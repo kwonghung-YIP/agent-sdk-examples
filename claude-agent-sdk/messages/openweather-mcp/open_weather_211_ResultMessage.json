@@ -1,0 +1,68 @@
+{
+    "subtype": "success",
+    "duration_ms": 17484,
+    "duration_api_ms": 18646,
+    "is_error": false,
+    "num_turns": 4,
+    "session_id": "5b271c8c-51f3-46b9-b9bd-1a6a0474cf87",
+    "stop_reason": "end_turn",
+    "total_cost_usd": 0.01879325,
+    "usage": {
+        "input_tokens": 38,
+        "cache_creation_input_tokens": 3783,
+        "cache_read_input_tokens": 55065,
+        "output_tokens": 1510,
+        "output_tokens_details": {
+            "thinking_tokens": 699
+        },
+        "server_tool_use": {
+            "web_search_requests": 0,
+            "web_fetch_requests": 0
+        },
+        "service_tier": "standard",
+        "cache_creation": {
+            "ephemeral_1h_input_tokens": 0,
+            "ephemeral_5m_input_tokens": 3783
+        },
+        "inference_geo": "not_available",
+        "iterations": [
+            {
+                "input_tokens": 8,
+                "output_tokens": 1059,
+                "cache_read_input_tokens": 14811,
+                "cache_creation_input_tokens": 396,
+                "cache_creation": {
+                    "ephemeral_5m_input_tokens": 396,
+                    "ephemeral_1h_input_tokens": 0
+                },
+                "type": "message"
+            }
+        ],
+        "speed": "standard"
+    },
+    "result": "Perfect! Here's your weather and schedule for the next few hours:\n\n## **Weather in London** \ud83c\udf27\ufe0f\n\n**Current Conditions:**\n- \ud83c\udf21\ufe0f Temperature: **14\u00b0C** (57\u00b0F) - cool morning\n- \ud83d\udca8 Wind: 2.6 m/s (5.9 mph) - light winds with occasional gusts\n- \u2601\ufe0f Conditions: **Overcast clouds** (85% cloud cover)\n- \ud83d\udca7 Humidity: **81%** - fairly damp\n- \ud83d\udc41\ufe0f Visibility: Excellent (10 km)\n- \ud83c\udf05 Sunrise: In about **5 hours** (around 5:50 AM)\n- \ud83c\udf07 Sunset: In about **18 hours** (around 11:15 PM)\n\n## **Recommended Schedule for Next Few Hours:**\n\n### **Early Morning (Now - 6:00 AM)** \u23f0\n- \u2705 **Ideal for:** Indoor work, reading, or catching up on emails\n- \ud83d\udca1 Since it's still pre-dawn and overcast, this is perfect for focused work before the sun rises\n- \u2615 Grab a warm beverage - it's chilly out there\n\n### **Morning (6:00 - 9:00 AM)** \ud83c\udf05\n- \u2705 **Ideal for:** Light outdoor activities as sunrise approaches\n- \ud83d\udeb6 Go for a walk or light exercise once it gets brighter\n- \ud83d\udccb Plan your outdoor activities for later when it's warmer\n- Note: Still expect the same cool temperature (~14-15\u00b0C)\n\n### **Mid-Morning (9:00 - 12:00 PM)** \u2600\ufe0f\n- \u2705 **Ideal for:** Main outdoor activities\n- \ud83d\udc55 Bring a light jacket - it will be cool but more comfortable\n- The overcast conditions mean no bright sun glare, perfect for outdoor work or errands\n- Wind remains light, so it's comfortable to be outside\n\n### **Weather Tips:**\n- \ud83e\udde5 Dress in layers given the cool temperature\n- \u2614 No rain expected today (clear skies), so outdoor plans are safe\n- \ud83d\udca8 The light winds won't interfere with most activities\n\nWould you like me to help you plan specific activities or set reminders for any of these time slots?",
+    "structured_output": null,
+    "model_usage": {
+        "claude-haiku-4-5-20251001": {
+            "inputTokens": 943,
+            "outputTokens": 1523,
+            "cacheReadInputTokens": 55065,
+            "cacheCreationInputTokens": 3783,
+            "webSearchRequests": 0,
+            "costUSD": 0.01879325,
+            "contextWindow": 200000,
+            "maxOutputTokens": 32000,
+            "thinkingTokens": 699,
+            "canonicalModel": "claude-haiku-4-5",
+            "provider": "firstParty",
+            "costBasis": "list"
+        }
+    },
+    "permission_denials": [],
+    "deferred_tool_use": null,
+    "errors": null,
+    "api_error_status": null,
+    "uuid": "2dd644f2-f390-4a51-aefd-7d71dbb73718",
+    "terminal_reason": "completed",
+    "origin": null
+}

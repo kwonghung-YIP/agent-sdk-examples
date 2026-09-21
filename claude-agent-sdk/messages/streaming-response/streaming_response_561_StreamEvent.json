@@ -1,0 +1,13 @@
+{
+    "uuid": "a7a69c88-63b7-4022-9576-106b09750e21",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " hours. Two"
+        }
+    },
+    "parent_tool_use_id": null
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "b236e8e4-72b3-4e5d-9eb0-b63fce4aac7b",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": "ship empty. The"
+        }
+    },
+    "parent_tool_use_id": null
+}

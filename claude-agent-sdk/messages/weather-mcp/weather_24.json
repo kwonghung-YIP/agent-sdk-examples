@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "Great! The current location is London. Now I can get the weather for London.",
+            "signature": "EuECCrIBCBEYAipAkiEBcXMRhMn5mAz+UPTqsuN3iw4HlwozMxrLchvOUzmxYbhupqc8+ZuNSgXYC1nq0UQHY+y+JFbjfG8k6dYRfjIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAHZ0oDVBrABAhIM2rBzRUqX/nWiucQGGgz4AIUPD4O78x5lDhgiME3WFkoogB3ECFJx6ieiLXTwXwcb9bs+H+K03Ad5CcE6vdq5tqda8HfTZUgEGOa5BSpc8fMizty0i2BC5gMBVCk/GPje8IhPjPMnQU7ZAN7Nd9ElWtBtJrhoXWT2AjKLg7mQmI4gVdijVtAonyYpcNt2oDO9z5wL09XjjmJjBYDbdmFjQRdwy48DyDwj4BEYAQ=="
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 8,
+        "cache_creation_input_tokens": 179,
+        "cache_read_input_tokens": 14442,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 179,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CerCzcPweL7bn7Ths89Sg",
+    "stop_reason": null,
+    "session_id": "2c041545-e5e1-413f-96f4-ea12bfe376f1",
+    "uuid": "a5ac8761-fa48-48a5-b3de-b256b55f92f0"
+}

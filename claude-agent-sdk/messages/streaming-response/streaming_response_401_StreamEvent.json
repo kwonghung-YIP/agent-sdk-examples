@@ -1,0 +1,13 @@
+{
+    "uuid": "612d7c5a-b807-4c1d-b83d-a0573c500678",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " magic"
+        }
+    },
+    "parent_tool_use_id": null
+}

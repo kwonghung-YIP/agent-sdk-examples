@@ -1,0 +1,13 @@
+{
+    "uuid": "0b27095a-68c6-4463-b270-2d3c66ae1441",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " I was"
+        }
+    },
+    "parent_tool_use_id": null
+}

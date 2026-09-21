@@ -1,0 +1,26 @@
+{
+    "content": [
+        {
+            "text": "I'm ready to help! Feel free to ask me anything else you need assistance with."
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 144,
+        "cache_read_input_tokens": 15578,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 144,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 3,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011Cex6ijs3E1CnB2HQpsgQk",
+    "stop_reason": null,
+    "session_id": "3d9bd071-7fe1-412d-a4fb-bc8f24235df4",
+    "uuid": "09570e19-8aa7-4b4c-aca1-67078003fb07"
+}

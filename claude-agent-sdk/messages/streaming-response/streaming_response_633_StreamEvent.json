@@ -1,0 +1,13 @@
+{
+    "uuid": "0e8693f6-5a6a-4811-b12a-f1aea38af1c0",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": "'t believe"
+        }
+    },
+    "parent_tool_use_id": null
+}

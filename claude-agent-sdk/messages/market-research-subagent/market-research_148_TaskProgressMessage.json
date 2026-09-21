@@ -1,0 +1,30 @@
+{
+    "subtype": "task_progress",
+    "data": {
+        "type": "system",
+        "subtype": "task_progress",
+        "task_id": "a9ab9fb42c9819777",
+        "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+        "description": "Fetching https://www.scan.co.uk/products/27-dell-ultrashar\u2026",
+        "subagent_type": "market-research-pc-monitor",
+        "usage": {
+            "total_tokens": 45377,
+            "tool_uses": 39,
+            "duration_ms": 117874
+        },
+        "last_tool_name": "WebFetch",
+        "uuid": "c5fc6455-3d95-49cf-a567-ec65dcb2d19b",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    },
+    "task_id": "a9ab9fb42c9819777",
+    "description": "Fetching https://www.scan.co.uk/products/27-dell-ultrashar\u2026",
+    "usage": {
+        "total_tokens": 45377,
+        "tool_uses": 39,
+        "duration_ms": 117874
+    },
+    "uuid": "c5fc6455-3d95-49cf-a567-ec65dcb2d19b",
+    "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa",
+    "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+    "last_tool_name": "WebFetch"
+}

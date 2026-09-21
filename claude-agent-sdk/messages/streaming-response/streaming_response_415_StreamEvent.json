@@ -1,0 +1,13 @@
+{
+    "uuid": "39a8989c-0d4e-4bec-8838-4f59ec6a3f40",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " KNOW existed. Like"
+        }
+    },
+    "parent_tool_use_id": null
+}

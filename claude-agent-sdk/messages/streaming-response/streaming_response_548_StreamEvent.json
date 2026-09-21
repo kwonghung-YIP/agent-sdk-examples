@@ -1,0 +1,13 @@
+{
+    "uuid": "d8e523e8-d3ef-40fa-ae7c-3a8068a31650",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Apparently, that guy"
+        }
+    },
+    "parent_tool_use_id": null
+}

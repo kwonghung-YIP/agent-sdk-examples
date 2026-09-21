@@ -1,0 +1,13 @@
+{
+    "uuid": "7417dcef-0997-4097-9e08-07f7b0396904",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " course it does!"
+        }
+    },
+    "parent_tool_use_id": null
+}

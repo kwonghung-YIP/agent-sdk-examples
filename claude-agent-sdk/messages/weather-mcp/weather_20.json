@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_018RF1pStYYVkt9ucbyV2LA9",
+            "content": "{\"result\":\"London\"}",
+            "is_error": null
+        }
+    ],
+    "uuid": "4cb27389-f25d-47b8-b4c7-8a20b4a5fd4d",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "content": "{\"result\":\"London\"}",
+        "_meta": {
+            "io.modelcontextprotocol/serverInfo": {
+                "name": "Weather MCP Server",
+                "version": "4.0.3"
+            },
+            "fastmcp": {
+                "wrap_result": true
+            }
+        },
+        "structuredContent": {
+            "result": "London"
+        }
+    },
+    "origin": null
+}

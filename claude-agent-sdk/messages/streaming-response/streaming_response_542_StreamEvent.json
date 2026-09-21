@@ -1,0 +1,13 @@
+{
+    "uuid": "d9820648-56bf-4032-adc2-6fe81aaf3b2c",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": "AM that"
+        }
+    },
+    "parent_tool_use_id": null
+}

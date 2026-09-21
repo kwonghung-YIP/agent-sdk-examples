@@ -1,0 +1,13 @@
+{
+    "uuid": "a5e32902-56b7-4738-b658-3b01175cc502",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " for the green check"
+        }
+    },
+    "parent_tool_use_id": null
+}

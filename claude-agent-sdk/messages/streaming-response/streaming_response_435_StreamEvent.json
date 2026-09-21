@@ -1,0 +1,13 @@
+{
+    "uuid": "223418c0-5097-47e4-8b96-e5c9605a4153",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " virus"
+        }
+    },
+    "parent_tool_use_id": null
+}

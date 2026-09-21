@@ -1,0 +1,13 @@
+{
+    "uuid": "f6c71c63-5a13-4a9c-802a-dd1d8cdd0fdb",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " code"
+        }
+    },
+    "parent_tool_use_id": null
+}

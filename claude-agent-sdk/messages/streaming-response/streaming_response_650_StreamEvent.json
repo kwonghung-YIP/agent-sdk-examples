@@ -1,0 +1,39 @@
+{
+    "uuid": "465a2be1-d7bd-4003-99d0-fe25ae683e4a",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "message_delta",
+        "delta": {
+            "stop_reason": "end_turn",
+            "stop_sequence": null,
+            "stop_details": null,
+            "container": null
+        },
+        "usage": {
+            "input_tokens": 10,
+            "cache_creation_input_tokens": 14214,
+            "cache_read_input_tokens": 0,
+            "output_tokens": 1179,
+            "output_tokens_details": {
+                "thinking_tokens": 161
+            },
+            "iterations": [
+                {
+                    "input_tokens": 10,
+                    "output_tokens": 1179,
+                    "cache_read_input_tokens": 0,
+                    "cache_creation_input_tokens": 14214,
+                    "cache_creation": {
+                        "ephemeral_5m_input_tokens": 14214,
+                        "ephemeral_1h_input_tokens": 0
+                    },
+                    "type": "message"
+                }
+            ]
+        },
+        "context_management": {
+            "applied_edits": []
+        }
+    },
+    "parent_tool_use_id": null
+}

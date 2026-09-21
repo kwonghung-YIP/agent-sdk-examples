@@ -1,0 +1,16 @@
+{
+    "subtype": "background_tasks_changed",
+    "data": {
+        "type": "system",
+        "subtype": "background_tasks_changed",
+        "tasks": [
+            {
+                "task_id": "a8f575b582c46d1cb",
+                "task_type": "local_agent",
+                "description": "Research 4K PC monitors under 700 pounds for dual monitor coding setup"
+            }
+        ],
+        "uuid": "5179a8e7-408e-4104-8648-61221390d626",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    }
+}

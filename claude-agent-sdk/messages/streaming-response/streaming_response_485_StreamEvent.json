@@ -1,0 +1,13 @@
+{
+    "uuid": "5e646df0-a0f9-4f0c-9133-a70b9ba25dee",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Slack at"
+        }
+    },
+    "parent_tool_use_id": null
+}

@@ -1,0 +1,11 @@
+{
+    "subtype": "thinking_tokens",
+    "data": {
+        "type": "system",
+        "subtype": "thinking_tokens",
+        "estimated_tokens": 6,
+        "estimated_tokens_delta": 6,
+        "session_id": "2c041545-e5e1-413f-96f4-ea12bfe376f1",
+        "uuid": "0e24922c-1c7f-4b8d-949f-3fecc254c99d"
+    }
+}

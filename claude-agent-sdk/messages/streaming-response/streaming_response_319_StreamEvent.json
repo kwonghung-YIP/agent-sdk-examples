@@ -1,0 +1,13 @@
+{
+    "uuid": "459d0e05-dd8f-46b3-a2a6-96eb19f761b2",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " my heart"
+        }
+    },
+    "parent_tool_use_id": null
+}

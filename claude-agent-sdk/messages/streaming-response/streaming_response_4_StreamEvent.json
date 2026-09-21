@@ -1,0 +1,14 @@
+{
+    "uuid": "7325396b-bd5a-4d7c-928e-1f8dacdd1e82",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_start",
+        "index": 0,
+        "content_block": {
+            "type": "thinking",
+            "thinking": "",
+            "signature": ""
+        }
+    },
+    "parent_tool_use_id": null
+}

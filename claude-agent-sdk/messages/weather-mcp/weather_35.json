@@ -1,0 +1,68 @@
+{
+    "subtype": "success",
+    "duration_ms": 8539,
+    "duration_api_ms": 10038,
+    "is_error": false,
+    "num_turns": 4,
+    "session_id": "2c041545-e5e1-413f-96f4-ea12bfe376f1",
+    "stop_reason": "end_turn",
+    "total_cost_usd": 0.026798799999999998,
+    "usage": {
+        "input_tokens": 36,
+        "cache_creation_input_tokens": 14758,
+        "cache_read_input_tokens": 43133,
+        "output_tokens": 612,
+        "output_tokens_details": {
+            "thinking_tokens": 287
+        },
+        "server_tool_use": {
+            "web_search_requests": 0,
+            "web_fetch_requests": 0
+        },
+        "service_tier": "standard",
+        "cache_creation": {
+            "ephemeral_1h_input_tokens": 0,
+            "ephemeral_5m_input_tokens": 14758
+        },
+        "inference_geo": "not_available",
+        "iterations": [
+            {
+                "input_tokens": 8,
+                "output_tokens": 191,
+                "cache_read_input_tokens": 14621,
+                "cache_creation_input_tokens": 137,
+                "cache_creation": {
+                    "ephemeral_5m_input_tokens": 137,
+                    "ephemeral_1h_input_tokens": 0
+                },
+                "type": "message"
+            }
+        ],
+        "speed": "standard"
+    },
+    "result": "\ud83c\udf21\ufe0f **Weather Report for London**\n\nThe current temperature in London is **39.9\u00b0C** (approximately 104\u00b0F). \n\nThat's quite warm! This is significantly above London's typical September average, so stay hydrated and take precautions against the heat. Make sure to drink plenty of water, seek shade when possible, and avoid prolonged sun exposure.\n\nIs there anything else you'd like to know about the weather?",
+    "structured_output": null,
+    "model_usage": {
+        "claude-haiku-4-5-20251001": {
+            "inputTokens": 933,
+            "outputTokens": 621,
+            "cacheReadInputTokens": 43133,
+            "cacheCreationInputTokens": 14758,
+            "webSearchRequests": 0,
+            "costUSD": 0.026798799999999998,
+            "contextWindow": 200000,
+            "maxOutputTokens": 32000,
+            "thinkingTokens": 287,
+            "canonicalModel": "claude-haiku-4-5",
+            "provider": "firstParty",
+            "costBasis": "list"
+        }
+    },
+    "permission_denials": [],
+    "deferred_tool_use": null,
+    "errors": null,
+    "api_error_status": null,
+    "uuid": "a776b9bd-af06-4d39-8d4c-b620eb7e0fc7",
+    "terminal_reason": "completed",
+    "origin": null
+}

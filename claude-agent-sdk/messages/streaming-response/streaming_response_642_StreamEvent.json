@@ -1,0 +1,13 @@
+{
+    "uuid": "d71022e0-842f-4f03-b9bf-8338a56a1832",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " That's pretty"
+        }
+    },
+    "parent_tool_use_id": null
+}

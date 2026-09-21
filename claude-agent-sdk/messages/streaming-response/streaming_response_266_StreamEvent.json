@@ -1,0 +1,13 @@
+{
+    "uuid": "0f93a903-a7f7-40d7-9494-fa90f03595ba",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " do \u2013 we say"
+        }
+    },
+    "parent_tool_use_id": null
+}

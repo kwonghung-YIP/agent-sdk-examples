@@ -1,0 +1,35 @@
+---
+name: market-research-pc-monitor
+description: Conduct live market research to find all available PC monitor models from the market-leading brands (Dell, Samsung, LG, Asus). Use this skill whenever the user asks to research, compare, or find PC monitors from these brands. The output is a table listing all available models with their technical specs, official pricing, and product page links.
+---
+
+# Workflow
+
+Execute all of the following steps yourself, in this turn, using the WebSearch and WebFetch tools directly. Do not describe this as a background or async task — perform the research now and return the completed table as your final answer.
+
+## 1. Search each brand
+For each brand listed in "Brands in research scope" below, run a WebSearch query to find their current PC monitor lineup (e.g. "Dell PC monitor models 2026 official site").
+
+## 2. Extract details from official sources
+For each model found, use WebFetch to open the official product page and extract:
+- Official model number and a link to the official product page
+- Official price
+- Key technical specs (resolution, panel type, refresh rate, screen size, ports)
+
+Only use information from official brand websites. If an official page isn't available for a model, skip it rather than guessing specs.
+
+## 3. Compile the results
+Once all brands have been researched, compile every model found into a single table (see "Output Table" below). Do this in the same turn — do not stop after searching one brand and wait for a follow-up prompt.
+
+# Output Table
+The output table must include the following columns:
+- Brand
+- Official model number (with link to the official product page)
+- Official price
+- Other common technical specs, for comparison (resolution, panel type, refresh rate, ports)
+
+# Brands in research scope
+- Dell
+- Samsung
+- LG
+- Asus

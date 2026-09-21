@@ -1,0 +1,13 @@
+{
+    "uuid": "7e1e4a6d-4a15-40ae-b853-c56153ea24c9",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " green checkmark."
+        }
+    },
+    "parent_tool_use_id": null
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b4bb1223-2fc1-4b00-b1bb-9a24c1526abe",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 0,
+        "delta": {
+            "type": "thinking_delta",
+            "thinking": "-up comedian.",
+            "estimated_tokens": null
+        }
+    },
+    "parent_tool_use_id": null
+}

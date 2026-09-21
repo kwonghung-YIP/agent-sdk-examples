@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "The user is asking me to tell them the weather. I see that I'm a weather reporter, and there are weather-related tools available in the system reminder:\n- mcp__weather__current_location\n- mcp__weather__get_weather\n\nThese are deferred tools, meaning I need to use ToolSearch to load their schemas before I can call them.\n\nLet me first fetch the schemas for these weather tools.",
+            "signature": "Eo4FCrIBCBEYAipAFPIYqaYjySsozMt/vYbH6sgZ2SGaAnIxMNHulYyFWBq0GzyNPE7U/EOfQpRpYvs5ZobFwMSPF6AYXn3BUOYydTIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAHW0oDVBrABAhIMtd0ehLOwvtYimEtoGgyhnxDUGZj6yM+d3LMiMEFQe57kn4iw9PzYY17wJA0zjOmkCZvQrhM7p1KCoKPUiS2JZVW4H4rPUgG1xtdgRyqIA3KOb19fY8ZX64pl5/7dGh3UyFaYHYY7tOIagaIk7kn2gdiaGjkmbZnVrDnDu7362ZpSdMkqV7XWRhHesUX3nimTetLuKnNxCLOywNPxP4XcZtCbCpVJTrjY047tfUlECKWjXe37PKZ/OqeTgGcJZ86MGAxqaZjLngElGpklfTCsuxZ3/lN5UNZQG3s5qjAHs17+8EHnW0ShNSF29AWwgfFOpE0ylVOnZhUbWGx9HBIkBVtVKIAbNCBwd9hyQYBvd2cQ971Xx4dbuSTYiAIOJBRbLv8/2HpTliV1yLK1daNLiUtHYEn0tbsrp5EL1cgJxZdApOcUS+EuyVvzH9CQvJwjeOI6VxibAZVLtYLh3kkQBJZeV1XoqUTFzDhVrctnIZ0Ua+XwIwyxmynrv2MlPYxW06jbDbDx7tpNvIKjnBim6hqfHtlNPvwWlN7E0B5Awc/VXlGjLo3Ghux7d6nB4GQUmRfuDy6lvGnEYwzueXeZgzx9DAh49FQq/10iSuaZGF8RQrbCXJfJGAE="
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 14070,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 14070,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 5,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CerCzH3cBU3H9ghPrJyGf",
+    "stop_reason": null,
+    "session_id": "2c041545-e5e1-413f-96f4-ea12bfe376f1",
+    "uuid": "b9d189a0-9c47-4520-85e6-f3c68eeeca96"
+}

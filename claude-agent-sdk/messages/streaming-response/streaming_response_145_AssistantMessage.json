@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "The user is asking me to tell a joke about a junior developer's first production release during night shift. They want it to be about 3 minutes long. This is a straightforward request for comedy content related to my role as a stand-up comedian.\n\nLet me craft a 3-minute joke about this scenario. A 3-minute stand-up joke is typically around 400-600 words when delivered at a normal pace.\n\nThis is a relatable topic for developers and tech workers - the anxiety of first production releases, especially the dread of doing it on night shift when no one is around to help if something goes wrong.\n\nLet me write this in a stand-up comedy style with setup, callbacks, and good pacing.",
+            "signature": "Er4HCrIBCBEYAipAff/m4I7feyC0fChIG6rd3jS7MR9fj3T3XuJw9SccaGB0sReePv1Cx21L5h/Z8M3CCSDFEJmA/mMTdsGIqHlJETIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAGWrJ/VBrABAhIMNFwJZ1mbGHF02HRlGgxMs6mr0DbHFdcERKUiMPFfI00QrTBsPl7NXtkEeOi03sTn0wRM0L8hlCK/iZ+5cKMtIFaR3xferGpF9J8s6Cq4BRe7UfmlZZUEiN2B9hG/SGfySrzfawRWcY2Cgi9Kc3xXQmbAUE0Z4C80wJ27KBFJLfDNVJMRrWBU/SajSvcOpcOlgWN5OCwXkRnEsIA6BHnB2RVi9Xu6NZ7H3kis0kxk2vjPe5VNE8q2X99SZqjgi7Orbvq6OXDL/QIYsVYh+4WJyDj/9DYMpVe/QVg3STFC/G9W1x9o9Y+nB31HB6BM8Fi7LDBoAwONdDJ8rmDeAckPNMyNBi/t5f2LVBKZLnOFcnsaY0XwB0Uj61iXDzIKzSfdYgd9K3TRaJCJ8a8i9VnP4aV/RbQ/OCJYacrostSk5eHP/kwPQ/Yy1i60u7bilRFYwLN2fG+bk/7yHMAjaD5IAKCb4g+Z95TzViomVE2C5R5u5Nh71acrWy7aicvWDqTGEHzAkSz+f2rUKogtUAHeOdJQedr2R/K62P9lqNkP1ylccJf88j0OvUFtA0auFN1lUjJ80VA8dSrID6MRtJ8EUTqJApWkrKIgzau4Kd4HHoO8ftRbbCx4MvZphM8AfY9SPMej9t6DWQx/4JgZaQnOidIpOHiVT7n8A9v+elPMJKImSjKkdvJnbCfqyCZ1pjgnXN8J/KJO+sE9T6MTqwN5Ln1k1J8nnNTHh+eZinSZTYueY3c3in2X0DjGxwB6I5NRLP5XsckcDg1GlGg5qQpzO49QLzln82BtZh/6ynMhGzt4IVzEG4V6quASgZlgHX5eky3lLH68uaLkkhkuwALZta0olheUm3upPhTpVKMK2mDLcjDOfM6Uhx56qViJ7IPzN1toNe/yDxVxkg8T4hSX9YRV4rBYCISrKisvXVpojnZSNTzd3TpgJ2kXuAwtgNwRR/XjKihIWScnpEs3ZJuB/e9HPO4TyqtN15jHlZ/o5UEIUIr2iRhtvswGdnfZj6ksNJsfsofELxgB"
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 14214,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 14214,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 4,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011Cf3EEoN45DwvG2DkTp8Q1",
+    "stop_reason": null,
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "uuid": "a37f8b22-007b-4441-aae9-e21e0c2bb20e"
+}

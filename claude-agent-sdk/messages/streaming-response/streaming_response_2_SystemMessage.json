@@ -1,0 +1,10 @@
+{
+    "subtype": "status",
+    "data": {
+        "type": "system",
+        "subtype": "status",
+        "status": "requesting",
+        "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+        "uuid": "46cffb31-ecf6-4bff-bcd6-54f28bc2a464"
+    }
+}

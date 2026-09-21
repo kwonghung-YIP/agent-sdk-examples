@@ -1,0 +1,13 @@
+{
+    "uuid": "e8a6bf97-3c8d-4d57-aa9e-8634d4354dc7",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " their toes.\""
+        }
+    },
+    "parent_tool_use_id": null
+}

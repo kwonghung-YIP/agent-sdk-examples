@@ -1,0 +1,13 @@
+{
+    "uuid": "e2c3cbc0-5cf2-44c3-aff9-78449d00d2ba",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " thinking"
+        }
+    },
+    "parent_tool_use_id": null
+}

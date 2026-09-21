@@ -1,0 +1,13 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01Lx6HAQZw3J6rD8BqKXD2Mi",
+            "content": "Claude requested permissions to use WebFetch, but you haven't granted it yet.",
+            "is_error": true
+        }
+    ],
+    "uuid": "17dc9d0c-38d0-4ea8-a81d-74e57fed0bf4",
+    "parent_tool_use_id": null,
+    "tool_use_result": "Error: Claude requested permissions to use WebFetch, but you haven't granted it yet.",
+    "origin": null
+}

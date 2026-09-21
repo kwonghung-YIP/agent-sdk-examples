@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "The user is asking me to check the local weather and plan their schedule for the next few hours. \n\nFirst, I need to get their current location and then fetch the weather. Looking at the available deferred tools, I can see:\n- `mcp__location__get_current_location` - to get current location\n- `mcp__weather__get_current` - to get current weather\n\nI should load these tools first using ToolSearch, then use them to get the location and weather information.\n\nLet me start by fetching these tools.",
+            "signature": "EoIGCrIBCBEYAipA+416cJer5kB3EQxB8oGn6GYXjSFvqWnt/sY4QlAYwCajJK55aYQh/FtENGV7wUYVSCjNA0U0psGi/wCzV4AINzIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAH68YfVBrABAhIM0E6OLpFwLdHk66weGgxH3FdkFvalKgVfP6giMBxujswGiY1sZyRyNMiAvKNlMtUXgGP+QgHZMEAw6FvLCjCpdKua3MGNM4lLTeBVECr8A7ONxMSk1MzY8XT1+DnbWowl/+gP3P0MWxr/mFS/g5ZIuYUU2TPf5h+vFtWZR6pxSp/igQs5iJJBO4veZKUxaMK/G1wA/s4X1mW8OSNQi05kJG2LQYrIDFsCsKh/i51yMJETPao3NfIRIHJfqwY78vpPaxp5wNbYbF7ZzHGgUV40cJUxw8dqzV3QFdq/QWbGT1Tm9GtPdy5nMFatY5VqP0A8LGE+jVsSjLvAYd+H6Kvfz6rFugO3gCg3wq7bX2dtJtNPurdN3ro72Cljn1OYQ3rYW8aHuNHnABUo6DckmohrSGOmEFcZTPIxxEY+fPnOTHZcvT1Kw7kycw+krty2cQePelsMuj1aUe74KVfgOUVW9Z79kQ3Vx31uFCa+cv+BvnvM9cpZNaIs0JFr57n2K6N7KNHew4axG1o+iBPYqQTwNo433+lUFgE/wT+pY/jL3sAAYvjwANmTSZGzaX3SU5eJl+It5vMU/Q5YXHMOmqtuwQvvPJT1lereiuuptep+XcAO7TWJIKJSZzEXy2ezo8sfUR2BFFhpQcsus20oH8N6inG/OvWLJbIC6ikPLQYcWr9imA3A0KK++W/UQvXSUERMtRxuG70K8M8/UtZ00IlhgzGgRnhmUxMUVZWKXhL8eghVsFZYnjW0csEsOm36sA+lDUoQIuKjcReFSYUYAQ=="
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 2760,
+        "cache_read_input_tokens": 11424,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 2760,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 4,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CetoqbrXtCBHBdGaZQmBe",
+    "stop_reason": null,
+    "session_id": "5b271c8c-51f3-46b9-b9bd-1a6a0474cf87",
+    "uuid": "da434331-fa7c-4d3b-b226-d962559292da"
+}

@@ -1,0 +1,23 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_011w1oX3rVJoCpopEix1Pfpj",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "{\"altitude\": 0.0, \"latitude\": 51.5074456, \"longitude\": -0.1277653, \"address\": \"Greater London, England, United Kingdom\"}"
+                }
+            ],
+            "is_error": null
+        }
+    ],
+    "uuid": "d6a48bd2-3c84-4642-96b8-37d2ce014834",
+    "parent_tool_use_id": null,
+    "tool_use_result": [
+        {
+            "type": "text",
+            "text": "{\"altitude\": 0.0, \"latitude\": 51.5074456, \"longitude\": -0.1277653, \"address\": \"Greater London, England, United Kingdom\"}"
+        }
+    ],
+    "origin": null
+}

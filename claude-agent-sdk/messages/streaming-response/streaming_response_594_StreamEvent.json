@@ -1,0 +1,13 @@
+{
+    "uuid": "0c9cb8db-206e-475d-8316-a5b0f19d5765",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " morning"
+        }
+    },
+    "parent_tool_use_id": null
+}

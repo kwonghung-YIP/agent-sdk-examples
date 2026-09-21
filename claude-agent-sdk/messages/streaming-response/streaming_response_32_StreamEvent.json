@@ -1,0 +1,14 @@
+{
+    "uuid": "eeee5e60-4bae-4365-a450-561b5b8092eb",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 0,
+        "delta": {
+            "type": "thinking_delta",
+            "thinking": "forward request for comedy",
+            "estimated_tokens": null
+        }
+    },
+    "parent_tool_use_id": null
+}

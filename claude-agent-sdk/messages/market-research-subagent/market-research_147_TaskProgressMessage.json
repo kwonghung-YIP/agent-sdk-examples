@@ -1,0 +1,30 @@
+{
+    "subtype": "task_progress",
+    "data": {
+        "type": "system",
+        "subtype": "task_progress",
+        "task_id": "a9ab9fb42c9819777",
+        "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+        "description": "Fetching https://www.dell.com/en-uk/shop/dell-27-plus-4k-u\u2026",
+        "subagent_type": "market-research-pc-monitor",
+        "usage": {
+            "total_tokens": 45306,
+            "tool_uses": 38,
+            "duration_ms": 116274
+        },
+        "last_tool_name": "WebFetch",
+        "uuid": "88867c27-e10d-41d6-bb74-0b6ace0b718f",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    },
+    "task_id": "a9ab9fb42c9819777",
+    "description": "Fetching https://www.dell.com/en-uk/shop/dell-27-plus-4k-u\u2026",
+    "usage": {
+        "total_tokens": 45306,
+        "tool_uses": 38,
+        "duration_ms": 116274
+    },
+    "uuid": "88867c27-e10d-41d6-bb74-0b6ace0b718f",
+    "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa",
+    "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+    "last_tool_name": "WebFetch"
+}

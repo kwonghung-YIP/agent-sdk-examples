@@ -1,0 +1,29 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_016s3QWashBfhYdjPkPHs9eM",
+            "content": [
+                {
+                    "type": "tool_reference",
+                    "tool_name": "mcp__location__get_current_location"
+                },
+                {
+                    "type": "tool_reference",
+                    "tool_name": "mcp__weather__get_current"
+                }
+            ],
+            "is_error": null
+        }
+    ],
+    "uuid": "e8082045-586e-4890-9492-380820749e77",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "matches": [
+            "mcp__location__get_current_location",
+            "mcp__weather__get_current"
+        ],
+        "query": "select:mcp__location__get_current_location,mcp__weather__get_current",
+        "total_deferred_tools": 24
+    },
+    "origin": null
+}

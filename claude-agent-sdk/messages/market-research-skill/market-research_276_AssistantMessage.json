@@ -1,0 +1,30 @@
+{
+    "content": [
+        {
+            "id": "toolu_01KCv9d9BP9CsiPR5VkAKxU9",
+            "name": "WebSearch",
+            "input": {
+                "query": "Dell UltraSharp U2725QE UK price \u00a3 pounds 2026"
+            }
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 8,
+        "cache_creation_input_tokens": 6306,
+        "cache_read_input_tokens": 21451,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 6306,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CewXmVcmUcjp2paahqhdB",
+    "stop_reason": null,
+    "session_id": "6d0a972d-4520-449f-ba07-51570f091b40",
+    "uuid": "ae414045-b7bc-4d0c-b17c-0332bb76962b"
+}

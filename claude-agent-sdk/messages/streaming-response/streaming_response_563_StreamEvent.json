@@ -1,0 +1,13 @@
+{
+    "uuid": "6043538b-2114-4ab1-b493-da1d687b3590",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Hours. And every"
+        }
+    },
+    "parent_tool_use_id": null
+}

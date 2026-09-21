@@ -1,0 +1,13 @@
+{
+    "uuid": "928c22ce-a4e0-4dcf-8cd1-f81ecfb0c648",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Night Shift Production"
+        }
+    },
+    "parent_tool_use_id": null
+}

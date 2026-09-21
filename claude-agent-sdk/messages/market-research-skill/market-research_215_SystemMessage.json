@@ -1,0 +1,12 @@
+{
+    "subtype": "permission_denied",
+    "data": {
+        "type": "system",
+        "subtype": "permission_denied",
+        "tool_name": "WebFetch",
+        "tool_use_id": "toolu_01Mgm3t7XWBWnK4XAXycNRd2",
+        "message": "Claude requested permissions to use WebFetch, but you haven't granted it yet.",
+        "uuid": "ac1043bf-4bf6-4ce7-88e1-1299879959b9",
+        "session_id": "6d0a972d-4520-449f-ba07-51570f091b40"
+    }
+}

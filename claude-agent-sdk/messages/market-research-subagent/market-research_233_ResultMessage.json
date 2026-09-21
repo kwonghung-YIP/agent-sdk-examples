@@ -1,0 +1,68 @@
+{
+    "subtype": "success",
+    "duration_ms": 8809,
+    "duration_api_ms": 334895,
+    "is_error": false,
+    "num_turns": 2,
+    "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa",
+    "stop_reason": "end_turn",
+    "total_cost_usd": 0.9783518999999999,
+    "usage": {
+        "input_tokens": 20,
+        "cache_creation_input_tokens": 15097,
+        "cache_read_input_tokens": 14241,
+        "output_tokens": 788,
+        "output_tokens_details": {
+            "thinking_tokens": 233
+        },
+        "server_tool_use": {
+            "web_search_requests": 0,
+            "web_fetch_requests": 0
+        },
+        "service_tier": "standard",
+        "cache_creation": {
+            "ephemeral_1h_input_tokens": 0,
+            "ephemeral_5m_input_tokens": 15097
+        },
+        "inference_geo": "not_available",
+        "iterations": [
+            {
+                "input_tokens": 10,
+                "output_tokens": 277,
+                "cache_read_input_tokens": 14241,
+                "cache_creation_input_tokens": 856,
+                "cache_creation": {
+                    "ephemeral_5m_input_tokens": 856,
+                    "ephemeral_1h_input_tokens": 0
+                },
+                "type": "message"
+            }
+        ],
+        "speed": "standard"
+    },
+    "result": "Perfect! I've launched a specialized market research agent to investigate 4K monitors that match your requirements. The agent is now searching for available options from the leading brands (Dell, Samsung, LG, and Asus) that would fit your budget and coding needs.\n\nThe research will cover:\n- **4K monitors** suitable for coding/productivity\n- **Pricing in GBP** (under 700 pounds)\n- **Dual monitor options** that stay within budget\n- **Key specs**: screen size, refresh rate, panel type, color accuracy, etc.\n- **Product links** for further investigation\n\nThis should take a few moments. Once the agent completes the research, I'll present you with a comprehensive table of options along with recommendations for both single high-end monitors and dual monitor setups that work within your budget.\n\nI'll notify you as soon as the results are ready! \u2728",
+    "structured_output": null,
+    "model_usage": {
+        "claude-haiku-4-5-20251001": {
+            "inputTokens": 488847,
+            "outputTokens": 28360,
+            "cacheReadInputTokens": 362724,
+            "cacheCreationInputTokens": 81146,
+            "webSearchRequests": 21,
+            "costUSD": 0.9783518999999999,
+            "contextWindow": 200000,
+            "maxOutputTokens": 32000,
+            "thinkingTokens": 3064,
+            "canonicalModel": "claude-haiku-4-5",
+            "provider": "firstParty",
+            "costBasis": "list"
+        }
+    },
+    "permission_denials": [],
+    "deferred_tool_use": null,
+    "errors": null,
+    "api_error_status": null,
+    "uuid": "c3c39749-a324-4c5b-9c34-72c45f974421",
+    "terminal_reason": "completed",
+    "origin": null
+}

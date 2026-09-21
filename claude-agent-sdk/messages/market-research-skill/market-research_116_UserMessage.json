@@ -1,0 +1,29 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_015CDhEApuPFYzpTWhvbZ7os",
+            "content": [
+                {
+                    "type": "tool_reference",
+                    "tool_name": "WebSearch"
+                },
+                {
+                    "type": "tool_reference",
+                    "tool_name": "WebFetch"
+                }
+            ],
+            "is_error": null
+        }
+    ],
+    "uuid": "c9847405-853f-474f-9560-76d2634ef8f5",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "matches": [
+            "WebSearch",
+            "WebFetch"
+        ],
+        "query": "select:WebSearch,WebFetch",
+        "total_deferred_tools": 18
+    },
+    "origin": null
+}

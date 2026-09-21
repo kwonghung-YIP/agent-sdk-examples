@@ -1,0 +1,13 @@
+{
+    "uuid": "c28331b7-cd1a-4e40-b9d0-0499c1092bed",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " junior developer's"
+        }
+    },
+    "parent_tool_use_id": null
+}

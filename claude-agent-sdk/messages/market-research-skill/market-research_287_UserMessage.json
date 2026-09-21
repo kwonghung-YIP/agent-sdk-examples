@@ -1,0 +1,53 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_014rRA83pZuqekBnTPE1kyWv",
+            "content": "Web search results for query: \"AOC U27B3A U28U60 4K monitor UK price \u00a3 specifications\"\n\nLinks: [{\"title\":\"AOC just rewrote the rules on 4K monitor prices\",\"url\":\"https://www.pcgamesn.com/aoc/u27b3a-u27b3af-4k-monitors\"},{\"title\":\"AOC U27B3A 27\\\" 4K UHD IPS 4ms - Price from \u00a3128.98\",\"url\":\"https://pricespy.co.uk/product.php?p=13965790\"},{\"title\":\"AOC B Series 27\\\" IPS 4K Ultra HD Gaming Monitor - U27B3A\",\"url\":\"https://box.co.uk/u27b3a-aoc-b3-27-4k-ultra-hd-lcd-computer-monitor\"},{\"title\":\"AOC Presents 27\\\" U27B3A and U27B3AF, Affordable 4K Monitors with IPS Panels | TechPowerUp\",\"url\":\"https://www.techpowerup.com/323569/aoc-presents-27-u27b3a-and-u27b3af-affordable-4k-monitors-with-ips-panels\"},{\"title\":\"AOC B3 U27B3A computer monitor 68.6 cm (27\\\") 3840 x 2160 pixels 4K Ult \u2013 Direct Computers\",\"url\":\"https://directcomputers.co.uk/products/aoc-27-ips-monitor-spk-u27b3a\"},{\"title\":\"AOC U27B3A 27-Inch 4K Ultra HD Monitor \u2014 Price Comparison\",\"url\":\"https://www.yorkshire.com/marketplace/9352abc4-6318-47bb-a04a-08566c343145\"},{\"title\":\"AOC U27B3A 27 Inch UHD 4K IPS Monitor Review UK (2026) - Specs, Image Quality & Value\",\"url\":\"https://www.vividrepairs.co.uk/aoc-u27b3a-27-inch-4k-60hz-review-uk\"}]\n\nBased on the search results, here's what I found about the AOC U27B3A 4K monitor for the UK market:\n\n## UK Pricing\n\nThe best price for AOC U27B3A 27\" 4K UHD IPS 4ms right now is \u00a3138.97, though prices from retailers range from \u00a3129.00. The original launch price was \u00a3189.99.\n\n## Key Specifications\n\nThe U27B3A features a 27\" IPS panel with UHD resolution (3840 x 2160) and 60 Hz refresh rate, providing 163 PPI with 10-bit colour depth. Additional features include:\n\n- HDR10 compliance for a more dynamic and lifelike viewing experience\n- Adaptive-Sync technology for smooth, tear-free visuals\n- 4ms response times and adaptive sync support\n- Built-in speakers\n- Connectivity includes HDMI 2.0 x 2 ports and DisplayPort 1.4 x 1\n\n**Note:** I did not find specific information about a \"U28U60\" model in the search results. The results focus on the U27B3A and U27B3AF models. If you're looking for information about a different model number, please let me know and I can search again.\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks.",
+            "is_error": null
+        }
+    ],
+    "uuid": "0ff3ccc8-7897-4816-8f0f-d47079311268",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "query": "AOC U27B3A U28U60 4K monitor UK price \u00a3 specifications",
+        "results": [
+            {
+                "tool_use_id": "srvtoolu_01FMFZ5BJiKUwxLgP6nBej2X",
+                "content": [
+                    {
+                        "title": "AOC just rewrote the rules on 4K monitor prices",
+                        "url": "https://www.pcgamesn.com/aoc/u27b3a-u27b3af-4k-monitors"
+                    },
+                    {
+                        "title": "AOC U27B3A 27\" 4K UHD IPS 4ms - Price from \u00a3128.98",
+                        "url": "https://pricespy.co.uk/product.php?p=13965790"
+                    },
+                    {
+                        "title": "AOC B Series 27\" IPS 4K Ultra HD Gaming Monitor - U27B3A",
+                        "url": "https://box.co.uk/u27b3a-aoc-b3-27-4k-ultra-hd-lcd-computer-monitor"
+                    },
+                    {
+                        "title": "AOC Presents 27\" U27B3A and U27B3AF, Affordable 4K Monitors with IPS Panels | TechPowerUp",
+                        "url": "https://www.techpowerup.com/323569/aoc-presents-27-u27b3a-and-u27b3af-affordable-4k-monitors-with-ips-panels"
+                    },
+                    {
+                        "title": "AOC B3 U27B3A computer monitor 68.6 cm (27\") 3840 x 2160 pixels 4K Ult \u2013 Direct Computers",
+                        "url": "https://directcomputers.co.uk/products/aoc-27-ips-monitor-spk-u27b3a"
+                    },
+                    {
+                        "title": "AOC U27B3A 27-Inch 4K Ultra HD Monitor \u2014 Price Comparison",
+                        "url": "https://www.yorkshire.com/marketplace/9352abc4-6318-47bb-a04a-08566c343145"
+                    },
+                    {
+                        "title": "AOC U27B3A 27 Inch UHD 4K IPS Monitor Review UK (2026) - Specs, Image Quality & Value",
+                        "url": "https://www.vividrepairs.co.uk/aoc-u27b3a-27-inch-4k-60hz-review-uk"
+                    }
+                ]
+            },
+            "Based on the search results, here's what I found about the AOC U27B3A 4K monitor for the UK market:\n\n## UK Pricing\n\nThe best price for AOC U27B3A 27\" 4K UHD IPS 4ms right now is \u00a3138.97, though prices from retailers range from \u00a3129.00. The original launch price was \u00a3189.99.\n\n## Key Specifications\n\nThe U27B3A features a 27\" IPS panel with UHD resolution (3840 x 2160) and 60 Hz refresh rate, providing 163 PPI with 10-bit colour depth. Additional features include:\n\n- HDR10 compliance for a more dynamic and lifelike viewing experience\n- Adaptive-Sync technology for smooth, tear-free visuals\n- 4ms response times and adaptive sync support\n- Built-in speakers\n- Connectivity includes HDMI 2.0 x 2 ports and DisplayPort 1.4 x 1\n\n**Note:** I did not find specific information about a \"U28U60\" model in the search results. The results focus on the U27B3A and U27B3AF models. If you're looking for information about a different model number, please let me know and I can search again."
+        ],
+        "durationSeconds": 6.298103803999991,
+        "searchCount": 1
+    },
+    "origin": null
+}

@@ -1,0 +1,30 @@
+{
+    "subtype": "task_progress",
+    "data": {
+        "type": "system",
+        "subtype": "task_progress",
+        "task_id": "a9ab9fb42c9819777",
+        "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+        "description": "Fetching https://www.samsung.com/us/monitors/4k-uhd/",
+        "subagent_type": "market-research-pc-monitor",
+        "usage": {
+            "total_tokens": 18326,
+            "tool_uses": 7,
+            "duration_ms": 19595
+        },
+        "last_tool_name": "WebFetch",
+        "uuid": "39d56974-aab2-43ea-af7a-36a3d27f591a",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    },
+    "task_id": "a9ab9fb42c9819777",
+    "description": "Fetching https://www.samsung.com/us/monitors/4k-uhd/",
+    "usage": {
+        "total_tokens": 18326,
+        "tool_uses": 7,
+        "duration_ms": 19595
+    },
+    "uuid": "39d56974-aab2-43ea-af7a-36a3d27f591a",
+    "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa",
+    "tool_use_id": "toolu_01XeyqoB94GW2JjjMSMftXnz",
+    "last_tool_name": "WebFetch"
+}

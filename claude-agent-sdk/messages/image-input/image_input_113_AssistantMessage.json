@@ -1,0 +1,26 @@
+{
+    "content": [
+        {
+            "text": "I can extract the stock prices from the image you've provided. Here are all the stocks shown in the \"People also watch\" section:"
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 14621,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 14621,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 8,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CfGVX5yAqSk1p6JqN93FX",
+    "stop_reason": null,
+    "session_id": "37e3fa76-68a1-4838-bd75-5589789752be",
+    "uuid": "4edf0678-990a-4a2e-bc1a-e6a63b3fe618"
+}

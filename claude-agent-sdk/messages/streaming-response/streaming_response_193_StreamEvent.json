@@ -1,0 +1,13 @@
+{
+    "uuid": "9772826e-0092-469e-a355-749cf4dd51f2",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " pushing"
+        }
+    },
+    "parent_tool_use_id": null
+}

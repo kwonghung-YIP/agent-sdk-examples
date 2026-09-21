@@ -1,0 +1,13 @@
+{
+    "uuid": "184c0b64-d996-47b9-a7cb-6786357289e2",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": "'s just me,"
+        }
+    },
+    "parent_tool_use_id": null
+}

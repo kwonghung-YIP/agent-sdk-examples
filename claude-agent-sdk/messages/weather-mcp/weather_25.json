@@ -1,0 +1,30 @@
+{
+    "content": [
+        {
+            "id": "toolu_01GhPhYPkY8ii5sMQVGV2dtC",
+            "name": "mcp__weather__get_weather",
+            "input": {
+                "location": "London"
+            }
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 8,
+        "cache_creation_input_tokens": 179,
+        "cache_read_input_tokens": 14442,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 179,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CerCzcPweL7bn7Ths89Sg",
+    "stop_reason": null,
+    "session_id": "2c041545-e5e1-413f-96f4-ea12bfe376f1",
+    "uuid": "e46aeaa0-d020-4d07-861a-13abffabaecc"
+}

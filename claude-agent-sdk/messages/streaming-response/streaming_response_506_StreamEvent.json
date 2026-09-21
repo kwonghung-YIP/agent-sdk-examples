@@ -1,0 +1,13 @@
+{
+    "uuid": "4760c120-8e39-416d-8e53-3d327323751f",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " thing where he r"
+        }
+    },
+    "parent_tool_use_id": null
+}

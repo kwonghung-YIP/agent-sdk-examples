@@ -1,0 +1,13 @@
+{
+    "uuid": "d20b7717-5aa9-4bed-ac5b-4035c220a974",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " blocked"
+        }
+    },
+    "parent_tool_use_id": null
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "c4e2d371-30e7-406c-a9e4-2a497e298e49",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": "beat in my ears"
+        }
+    },
+    "parent_tool_use_id": null
+}

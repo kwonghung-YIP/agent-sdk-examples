@@ -1,0 +1,96 @@
+{
+    "subtype": "success",
+    "duration_ms": 5370,
+    "duration_api_ms": 7154,
+    "is_error": false,
+    "num_turns": 2,
+    "session_id": "37e3fa76-68a1-4838-bd75-5589789752be",
+    "stop_reason": "tool_use",
+    "total_cost_usd": 0.02247125,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 14621,
+        "cache_read_input_tokens": 0,
+        "output_tokens": 640,
+        "output_tokens_details": {
+            "thinking_tokens": 362
+        },
+        "server_tool_use": {
+            "web_search_requests": 0,
+            "web_fetch_requests": 0
+        },
+        "service_tier": "standard",
+        "cache_creation": {
+            "ephemeral_1h_input_tokens": 0,
+            "ephemeral_5m_input_tokens": 14621
+        },
+        "inference_geo": "not_available",
+        "iterations": [
+            {
+                "input_tokens": 10,
+                "output_tokens": 640,
+                "cache_read_input_tokens": 0,
+                "cache_creation_input_tokens": 14621,
+                "cache_creation": {
+                    "ephemeral_5m_input_tokens": 14621,
+                    "ephemeral_1h_input_tokens": 0
+                },
+                "type": "message"
+            }
+        ],
+        "speed": "standard"
+    },
+    "result": "{\"quote\":[{\"ticker\":\"TSLA\",\"company_name\":\"Tesla, Inc.\",\"price\":360.41},{\"ticker\":\"AMZN\",\"company_name\":\"Amazon.com, Inc.\",\"price\":253.12},{\"ticker\":\"AAPL\",\"company_name\":\"Apple Inc.\",\"price\":334.65},{\"ticker\":\"AMD\",\"company_name\":\"Advanced Micro Devices, Inc.\",\"price\":485.06},{\"ticker\":\"META\",\"company_name\":\"Meta Platforms, Inc.\",\"price\":661.77}]}",
+    "structured_output": {
+        "quote": [
+            {
+                "ticker": "TSLA",
+                "company_name": "Tesla, Inc.",
+                "price": 360.41
+            },
+            {
+                "ticker": "AMZN",
+                "company_name": "Amazon.com, Inc.",
+                "price": 253.12
+            },
+            {
+                "ticker": "AAPL",
+                "company_name": "Apple Inc.",
+                "price": 334.65
+            },
+            {
+                "ticker": "AMD",
+                "company_name": "Advanced Micro Devices, Inc.",
+                "price": 485.06
+            },
+            {
+                "ticker": "META",
+                "company_name": "Meta Platforms, Inc.",
+                "price": 661.77
+            }
+        ]
+    },
+    "model_usage": {
+        "claude-haiku-4-5-20251001": {
+            "inputTokens": 930,
+            "outputTokens": 653,
+            "cacheReadInputTokens": 0,
+            "cacheCreationInputTokens": 14621,
+            "webSearchRequests": 0,
+            "costUSD": 0.02247125,
+            "contextWindow": 200000,
+            "maxOutputTokens": 32000,
+            "thinkingTokens": 362,
+            "canonicalModel": "claude-haiku-4-5",
+            "provider": "firstParty",
+            "costBasis": "list"
+        }
+    },
+    "permission_denials": [],
+    "deferred_tool_use": null,
+    "errors": null,
+    "api_error_status": null,
+    "uuid": "eefb9371-f67e-48ec-85a8-a58e040e0ef5",
+    "terminal_reason": "completed",
+    "origin": null
+}

@@ -1,0 +1,22 @@
+{
+    "subtype": "task_updated",
+    "data": {
+        "type": "system",
+        "subtype": "task_updated",
+        "task_id": "a9ab9fb42c9819777",
+        "patch": {
+            "status": "completed",
+            "end_time": 1789129410173
+        },
+        "uuid": "2451b8bc-f969-4b6f-92ea-b1b749eeabf6",
+        "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa"
+    },
+    "task_id": "a9ab9fb42c9819777",
+    "patch": {
+        "status": "completed",
+        "end_time": 1789129410173
+    },
+    "status": "completed",
+    "session_id": "6f0bed12-547f-4fc5-aebd-6d51b3a012fa",
+    "uuid": "2451b8bc-f969-4b6f-92ea-b1b749eeabf6"
+}

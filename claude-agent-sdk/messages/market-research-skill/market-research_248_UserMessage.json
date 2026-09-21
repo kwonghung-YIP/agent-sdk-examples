@@ -1,0 +1,57 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01GrCGQLN1tiSdD9QqZahgvp",
+            "content": "Web search results for query: \"ASUS ProArt PA279CDV PA32USD 4K price GBP pounds\"\n\nLinks: [{\"title\":\"ASUS ProArt PA279CDV: $699 4K QD-OLED for Creators\",\"url\":\"https://the-gadgeteer.com/2026/07/29/asus-proart-pa279cdv-4k-qd-oled-creator-monitor/\"},{\"title\":\"Asus ProArt Display PA279CDV 27 inch Ultra HD 4K Monitor - Price in United States (Aug 2026), Specs, Reviews | Smartprix\",\"url\":\"https://us.smartprix.com/monitors/asus-proart-display-pa279cdv-27-inch-ultra-ppd1ad1i4zkk\"},{\"title\":\"ASUS ProArt PA279CDV and PA329CDV: A Look at the New 4K OLED Monitors for Creatives - Basic Tutorials\",\"url\":\"https://basic-tutorials.com/news/asus-proart-pa279cdv-and-pa329cdv-a-look-at-the-new-4k-oled-monitors-for-creatives/\"},{\"title\":\"ASUS ProArt OLED PA279CDV \u2013 4K 120Hz QD-OLED | Price & Specs\",\"url\":\"https://techstoriesindia.com/asus-proart-display-oled-pa279cdv-price-specs-amazon-us/\"},{\"title\":\"Amazon.com: ASUS ProArt PA279CRV 27 Inch 4K UHD USB-C HDR Professional Monitor for Mac | Calman Verified, Delta E<2, Daisy Chain, IPS, USB-C PD 96W, Height Adjustable, 99% DCI-P3, 99% Adobe RGB : Electronics\",\"url\":\"https://www.amazon.com/ASUS-Display-Professional-Monitor-PA279CRV/dp/B0BQPSX5CR\"},{\"title\":\"Amazon.com: ASUS ProArt PA279CV 27 Inch 4K UHD USB-C Professional Monitor | Calman Verified, Delta E<2, USB-C PD 65W, USB Hub, IPS, Height Adjustable, 100% sRGB, Eye Care, HDMI, DisplayPort : Electronics\",\"url\":\"https://www.amazon.com/ASUS-ProArt-Display-Monitor-PA279CV/dp/B08K2GFDKM\"},{\"title\":\"Amazon.com: ASUS ProArt Display 27\\\" 4K OLED USB-C Professional Monitor (PA279CDV) \u2013 QD-OLED, 120Hz, HDR10, 99% DCI-P3, \u0394E < 1.5, Calman Verified, USB-C (96W PD), AutoKVM, Ergonomic Stand, Mac, 3yr Warranty : Electronics\",\"url\":\"https://www.amazon.com/ASUS-Display-Professional-Monitor-PA279CDV/dp/B0H3Y8VM5Q\"},{\"title\":\"ProArt Display PA279CRV\uff5cMonitors\uff5cASUS USA\",\"url\":\"https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-pa279crv/\"}]\n\nBased on the search results, here's what I found about pricing for the ASUS ProArt monitors:\n\n**PA279CDV (27-inch 4K QD-OLED):**\n- Price starts at $699 in United States\n- In Germany, Austria, and Switzerland, it costs 799.90 euros\n\n**PA32USD:**\nThe search results mention the PA32USD as a higher-end model but don't provide specific pricing information for it in GBP. The PA27USD and PA32USD are positioned above the PA279CDV, running at 240Hz with Delta E below 1, 12G-SDI for uncompressed video, and Dolby Vision support.\n\nUnfortunately, I was unable to find specific GBP (British pounds) pricing for either model in the search results. The prices shown are in USD and EUR. You may need to check UK retailers directly for GBP pricing on these monitors.\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks.",
+            "is_error": null
+        }
+    ],
+    "uuid": "d59e2275-c82d-4554-b1ec-3fac34f668ce",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "query": "ASUS ProArt PA279CDV PA32USD 4K price GBP pounds",
+        "results": [
+            {
+                "tool_use_id": "srvtoolu_019Fpb4Uv7XbjedKmefKFxx5",
+                "content": [
+                    {
+                        "title": "ASUS ProArt PA279CDV: $699 4K QD-OLED for Creators",
+                        "url": "https://the-gadgeteer.com/2026/07/29/asus-proart-pa279cdv-4k-qd-oled-creator-monitor/"
+                    },
+                    {
+                        "title": "Asus ProArt Display PA279CDV 27 inch Ultra HD 4K Monitor - Price in United States (Aug 2026), Specs, Reviews | Smartprix",
+                        "url": "https://us.smartprix.com/monitors/asus-proart-display-pa279cdv-27-inch-ultra-ppd1ad1i4zkk"
+                    },
+                    {
+                        "title": "ASUS ProArt PA279CDV and PA329CDV: A Look at the New 4K OLED Monitors for Creatives - Basic Tutorials",
+                        "url": "https://basic-tutorials.com/news/asus-proart-pa279cdv-and-pa329cdv-a-look-at-the-new-4k-oled-monitors-for-creatives/"
+                    },
+                    {
+                        "title": "ASUS ProArt OLED PA279CDV \u2013 4K 120Hz QD-OLED | Price & Specs",
+                        "url": "https://techstoriesindia.com/asus-proart-display-oled-pa279cdv-price-specs-amazon-us/"
+                    },
+                    {
+                        "title": "Amazon.com: ASUS ProArt PA279CRV 27 Inch 4K UHD USB-C HDR Professional Monitor for Mac | Calman Verified, Delta E<2, Daisy Chain, IPS, USB-C PD 96W, Height Adjustable, 99% DCI-P3, 99% Adobe RGB : Electronics",
+                        "url": "https://www.amazon.com/ASUS-Display-Professional-Monitor-PA279CRV/dp/B0BQPSX5CR"
+                    },
+                    {
+                        "title": "Amazon.com: ASUS ProArt PA279CV 27 Inch 4K UHD USB-C Professional Monitor | Calman Verified, Delta E<2, USB-C PD 65W, USB Hub, IPS, Height Adjustable, 100% sRGB, Eye Care, HDMI, DisplayPort : Electronics",
+                        "url": "https://www.amazon.com/ASUS-ProArt-Display-Monitor-PA279CV/dp/B08K2GFDKM"
+                    },
+                    {
+                        "title": "Amazon.com: ASUS ProArt Display 27\" 4K OLED USB-C Professional Monitor (PA279CDV) \u2013 QD-OLED, 120Hz, HDR10, 99% DCI-P3, \u0394E < 1.5, Calman Verified, USB-C (96W PD), AutoKVM, Ergonomic Stand, Mac, 3yr Warranty : Electronics",
+                        "url": "https://www.amazon.com/ASUS-Display-Professional-Monitor-PA279CDV/dp/B0H3Y8VM5Q"
+                    },
+                    {
+                        "title": "ProArt Display PA279CRV\uff5cMonitors\uff5cASUS USA",
+                        "url": "https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-pa279crv/"
+                    }
+                ]
+            },
+            "Based on the search results, here's what I found about pricing for the ASUS ProArt monitors:\n\n**PA279CDV (27-inch 4K QD-OLED):**\n- Price starts at $699 in United States\n- In Germany, Austria, and Switzerland, it costs 799.90 euros\n\n**PA32USD:**\nThe search results mention the PA32USD as a higher-end model but don't provide specific pricing information for it in GBP. The PA27USD and PA32USD are positioned above the PA279CDV, running at 240Hz with Delta E below 1, 12G-SDI for uncompressed video, and Dolby Vision support.\n\nUnfortunately, I was unable to find specific GBP (British pounds) pricing for either model in the search results. The prices shown are in USD and EUR. You may need to check UK retailers directly for GBP pricing on these monitors."
+        ],
+        "durationSeconds": 4.774012208,
+        "searchCount": 1
+    },
+    "origin": null
+}

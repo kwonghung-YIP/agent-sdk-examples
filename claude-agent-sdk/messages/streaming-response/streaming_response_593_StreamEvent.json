@@ -1,0 +1,13 @@
+{
+    "uuid": "dc7052dd-d48d-4a74-91a7-4b4308890ffc",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Monday"
+        }
+    },
+    "parent_tool_use_id": null
+}

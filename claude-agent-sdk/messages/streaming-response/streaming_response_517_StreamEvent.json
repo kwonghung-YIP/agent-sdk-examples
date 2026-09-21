@@ -1,0 +1,13 @@
+{
+    "uuid": "b3974923-1a43-42a8-99b7-5ac5d2efe93c",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " Angry I"
+        }
+    },
+    "parent_tool_use_id": null
+}

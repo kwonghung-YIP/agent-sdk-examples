@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "I need permission to use WebFetch. Let me search for more specific pricing information through WebSearch instead. Let me try searching for 4K monitors with specific pricing information.",
+            "signature": "Es8DCrIBCBEYAipAVD0odh8Ny+WvWiQw/pfr6fbpBcFrmeTaR5qbeYolBfX4ny00cdU5M6kmU8xc4VOnmnCktFL6Gf0Ts8GTTt9YHjIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAHVvI/VBrABAhIM+I6Ei09NbICxktL9Ggw3htSRcRFPCUCaPGciMFcSgKMZPEFld99wAAthZ8Xwt6FJEX8HX1z2VmARpQ6ydmkme4FmoK9KSK6YHUAcpirJAVBN+x3R80/KhH39FdjMjVjeQM3PsunidOcIb+gBPmi5HbXQJYbr6fKA6hGo1wB0e1HoLAKu4IDiOrYEn3wLOez7iRz/47E9ykyQR0kaGb5ff4XX8iIxxDnyvPXPr7FH8bul8S48Sl88Ilkil2yAojZx1gqn6trNxEbuMc6tK3ZY1ATuCaZEpP5maRzJRk4/jsx01nudG4O5SWiCURDwgSI1vUIHcX+arELPyPIB1nLn5Ii9+ECWHUzvHCAugoPQU2eEYyhbjWvXgRgB"
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 8,
+        "cache_creation_input_tokens": 1189,
+        "cache_read_input_tokens": 20262,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 1189,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CewXkgw8kvgh88xRPpC2v",
+    "stop_reason": null,
+    "session_id": "6d0a972d-4520-449f-ba07-51570f091b40",
+    "uuid": "1ea279a7-4498-477b-851b-2ef8ba7746f8"
+}

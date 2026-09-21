@@ -1,0 +1,13 @@
+{
+    "uuid": "1c9d0057-ae91-4155-aadb-0cfc41f90982",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " you're like,"
+        }
+    },
+    "parent_tool_use_id": null
+}

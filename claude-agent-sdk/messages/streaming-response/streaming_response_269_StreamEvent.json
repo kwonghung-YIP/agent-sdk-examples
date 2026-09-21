@@ -1,0 +1,13 @@
+{
+    "uuid": "3b672e6b-5e54-41b7-8a7d-61921a96841d",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " like golden"
+        }
+    },
+    "parent_tool_use_id": null
+}

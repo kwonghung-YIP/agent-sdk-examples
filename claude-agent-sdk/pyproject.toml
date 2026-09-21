@@ -1,0 +1,17 @@
+[project]
+name = "agent-sdk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "claude-agent-sdk>=0.2.152",
+    "geopy[aiohttp]>=2.5.0",
+]
+
+[project.scripts]
+agent-sdk = "agent_sdk:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"

@@ -1,0 +1,14 @@
+{
+    "uuid": "810bddb2-0080-425a-8eae-a94bca95c754",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 0,
+        "delta": {
+            "type": "thinking_delta",
+            "thinking": " the",
+            "estimated_tokens": null
+        }
+    },
+    "parent_tool_use_id": null
+}

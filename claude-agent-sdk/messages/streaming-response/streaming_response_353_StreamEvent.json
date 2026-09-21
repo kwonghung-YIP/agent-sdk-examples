@@ -1,0 +1,13 @@
+{
+    "uuid": "14a83c24-3a8d-4fbf-b313-8b36885accc4",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " you're waiting"
+        }
+    },
+    "parent_tool_use_id": null
+}

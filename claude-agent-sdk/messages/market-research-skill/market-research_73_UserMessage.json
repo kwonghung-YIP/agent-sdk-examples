@@ -1,0 +1,11 @@
+{
+    "content": [
+        {
+            "text": "Base directory for this skill: /home/hung/projects/claude-examples/agent-sdk/.claude/skills/market-research-pc-monitor\n\n# Workflow\n\nExecute all of the following steps yourself, in this turn, using the WebSearch and WebFetch tools directly. Do not describe this as a background or async task \u2014 perform the research now and return the completed table as your final answer.\n\n## 1. Search each brand\nFor each brand listed in \"Brands in research scope\" below, run a WebSearch query to find their current PC monitor lineup (e.g. \"Dell PC monitor models 2026 official site\").\n\n## 2. Extract details from official sources\nFor each model found, use WebFetch to open the official product page and extract:\n- Official model number and a link to the official product page\n- Official price\n- Key technical specs (resolution, panel type, refresh rate, screen size, ports)\n\nOnly use information from official brand websites. If an official page isn't available for a model, skip it rather than guessing specs.\n\n## 3. Compile the results\nOnce all brands have been researched, compile every model found into a single table (see \"Output Table\" below). Do this in the same turn \u2014 do not stop after searching one brand and wait for a follow-up prompt.\n\n# Output Table\nThe output table must include the following columns:\n- Brand\n- Official model number (with link to the official product page)\n- Official price\n- Other common technical specs, for comparison (resolution, panel type, refresh rate, ports)\n\n# Brands in research scope\n- Dell\n- Samsung\n- LG\n- Asus"
+        }
+    ],
+    "uuid": "99f91c9c-4e48-4f24-8bdd-9de7405debdd",
+    "parent_tool_use_id": null,
+    "tool_use_result": null,
+    "origin": null
+}

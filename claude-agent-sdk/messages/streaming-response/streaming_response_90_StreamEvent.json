@@ -1,0 +1,14 @@
+{
+    "uuid": "57b425c4-5370-40b5-ba73-8ef8c2bba69b",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 0,
+        "delta": {
+            "type": "thinking_delta",
+            "thinking": " tech",
+            "estimated_tokens": null
+        }
+    },
+    "parent_tool_use_id": null
+}

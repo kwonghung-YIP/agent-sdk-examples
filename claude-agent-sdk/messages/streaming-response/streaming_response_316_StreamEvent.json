@@ -1,0 +1,13 @@
+{
+    "uuid": "7d947620-e81c-4d3b-bdbd-5424d33c7400",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " the history of Git"
+        }
+    },
+    "parent_tool_use_id": null
+}

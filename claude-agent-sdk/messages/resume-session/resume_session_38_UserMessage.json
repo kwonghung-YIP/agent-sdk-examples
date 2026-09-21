@@ -1,0 +1,13 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01AkWonnM2pKiy5fmdjb3QLA",
+            "content": "Your questions have been answered: \"Which programming language are you working on?\"=\"Java\". You can now continue with these answers in mind.",
+            "is_error": null
+        }
+    ],
+    "uuid": "207514e6-d24c-48b4-a422-40ec6ef43dc7",
+    "parent_tool_use_id": null,
+    "tool_use_result": null,
+    "origin": null
+}

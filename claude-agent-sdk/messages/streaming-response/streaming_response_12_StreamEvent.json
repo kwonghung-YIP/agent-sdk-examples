@@ -1,0 +1,14 @@
+{
+    "uuid": "6f19a298-d8b6-48c4-91c2-8fc7730f7b5e",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 0,
+        "delta": {
+            "type": "thinking_delta",
+            "thinking": " about a junior developer",
+            "estimated_tokens": null
+        }
+    },
+    "parent_tool_use_id": null
+}

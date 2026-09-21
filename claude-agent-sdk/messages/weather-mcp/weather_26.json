@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01GhPhYPkY8ii5sMQVGV2dtC",
+            "content": "{\"result\":39.9}",
+            "is_error": null
+        }
+    ],
+    "uuid": "791bd1d9-9968-435c-84cb-b96ffc4d3e3b",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "content": "{\"result\":39.9}",
+        "_meta": {
+            "io.modelcontextprotocol/serverInfo": {
+                "name": "Weather MCP Server",
+                "version": "4.0.3"
+            },
+            "fastmcp": {
+                "wrap_result": true
+            }
+        },
+        "structuredContent": {
+            "result": 39.9
+        }
+    },
+    "origin": null
+}

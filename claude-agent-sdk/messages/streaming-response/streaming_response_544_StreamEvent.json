@@ -1,0 +1,13 @@
+{
+    "uuid": "3f3a0508-69e5-4c2f-a2ac-b0cd60077bd2",
+    "session_id": "1b93ea05-7dda-4853-98b0-6e1c855c880f",
+    "event": {
+        "type": "content_block_delta",
+        "index": 1,
+        "delta": {
+            "type": "text_delta",
+            "text": " guy"
+        }
+    },
+    "parent_tool_use_id": null
+}

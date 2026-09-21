@@ -1,0 +1,65 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01GLbXnckftSF1QfKdj195bb",
+            "content": "Web search results for query: \"ASUS PA279CDV UK price GBP \u00a3 4K OLED\"\n\nLinks: [{\"title\":\"ASUS ProArt PA279CDV: $699 4K QD-OLED for Creators\",\"url\":\"https://the-gadgeteer.com/2026/07/29/asus-proart-pa279cdv-4k-qd-oled-creator-monitor/\"},{\"title\":\"Asus 26.5\\\" ProArt PA279CDV 4K Ultra HD QD-OLED Monitor (PA279CDV )\",\"url\":\"https://www.connection.com/product/asus-26.5-proart-pa279cdv-4k-ultra-hd-qd-oled-monitor/pa279cdv/42140263\"},{\"title\":\"ASUS ProArt Display OLED PA279CDV 26.5\\\" 4K HDR 120 Hz PA279CDV\",\"url\":\"https://www.bhphotovideo.com/c/product/1987314-REG/asus_pa279cdv_27_4k_uhd_proart.html\"},{\"title\":\"ASUS Ultra-Wide Quad HD Monitor (PA279CRV)\",\"url\":\"https://www.senetic.co.uk/product/PA279CRV\"},{\"title\":\"ProArt Display OLED PA279CDV\uff5cMonitors\uff5cASUS Global\",\"url\":\"https://www.asus.com/displays-desktops/monitors/proart/proart-display-oled-pa279cdv/\"},{\"title\":\"ProArt Display OLED PA279CDV\",\"url\":\"https://uk.store.asus.com/proart-display-oled-pa279cdv3676-90lm06m0-b01k71.html\"},{\"title\":\"Asus ProArt Display PA279CRV Professional Monitor Best UK Price - Compare Prices Here - UK Stock\",\"url\":\"https://www.camerapricebuster.co.uk/Asus/Asus-Monitors/Asus-ProArt-Display-PA279CRV-Professional-Monitor\"},{\"title\":\"ProArt Display OLED PA279CDV\uff5cMonitors\uff5cASUS United Kingdom\",\"url\":\"https://www.asus.com/uk/displays-desktops/monitors/all-series/proart-display-oled-pa279cdv/helpdesk_knowledge?model2Name=ProArt-Display-OLED-PA279CDV\"},{\"title\":\"ASUS ProArt Display OLED PA279CDV 27 Inch (26.5-inch viewable) 4K UHD \u2013 Dynacore Technologies Pte Ltd\",\"url\":\"https://dynacoretech.com/products/asus-proart-display-oled-pa279cdv-27-inch-26-5-inch-viewable-4k-uhd-qd-oled-120hz-professional-monitor-pa279cdv\"},{\"title\":\"ASUS ProArt PA279CV 27\\\" 4K IPS LED Professional Monitor\",\"url\":\"https://www.ebay.de/itm/267257100957\"}]\n\nBased on the search results, I found information about the ASUS PA279CDV monitor, though specific UK GBP pricing was limited in the results.\n\nHere's what I found:\n\n**US Pricing:**\nThe ASUS ProArt Display OLED PA279CDV is a 26.5-inch 4K QD-OLED monitor with 120Hz, factory calibration, 96W USB-C, and Auto KVM, available at a $699 US MSRP.\n\n**Monitor Specifications:**\nThe PA279CDV is a 26.5-inch 4K UHD QD-OLED professional monitor designed for content creators, video editors, and color-critical workflows, featuring 1000-nit peak brightness, 99% DCI-P3 color gamut, and Delta E < 1.5 factory calibration.\n\n**UK Availability:**\nI found a listing on the official ASUS UK store (uk.store.asus.com) for the PA279CDV, but the specific GBP price wasn't displayed in the search results. I recommend visiting the ASUS UK store directly or checking UK retailers like Amazon UK, Curry's, or specialist tech retailers for current GBP pricing, as UK prices typically reflect currency conversion plus VAT (20%).\n\n\nREMINDER: You MUST include the sources above in your response to the user using markdown hyperlinks.",
+            "is_error": null
+        }
+    ],
+    "uuid": "ff349d47-3429-4a8b-ae70-d7a413cbc410",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "query": "ASUS PA279CDV UK price GBP \u00a3 4K OLED",
+        "results": [
+            {
+                "tool_use_id": "srvtoolu_01XDuYdkaQ11C6BBTN5yBCmw",
+                "content": [
+                    {
+                        "title": "ASUS ProArt PA279CDV: $699 4K QD-OLED for Creators",
+                        "url": "https://the-gadgeteer.com/2026/07/29/asus-proart-pa279cdv-4k-qd-oled-creator-monitor/"
+                    },
+                    {
+                        "title": "Asus 26.5\" ProArt PA279CDV 4K Ultra HD QD-OLED Monitor (PA279CDV )",
+                        "url": "https://www.connection.com/product/asus-26.5-proart-pa279cdv-4k-ultra-hd-qd-oled-monitor/pa279cdv/42140263"
+                    },
+                    {
+                        "title": "ASUS ProArt Display OLED PA279CDV 26.5\" 4K HDR 120 Hz PA279CDV",
+                        "url": "https://www.bhphotovideo.com/c/product/1987314-REG/asus_pa279cdv_27_4k_uhd_proart.html"
+                    },
+                    {
+                        "title": "ASUS Ultra-Wide Quad HD Monitor (PA279CRV)",
+                        "url": "https://www.senetic.co.uk/product/PA279CRV"
+                    },
+                    {
+                        "title": "ProArt Display OLED PA279CDV\uff5cMonitors\uff5cASUS Global",
+                        "url": "https://www.asus.com/displays-desktops/monitors/proart/proart-display-oled-pa279cdv/"
+                    },
+                    {
+                        "title": "ProArt Display OLED PA279CDV",
+                        "url": "https://uk.store.asus.com/proart-display-oled-pa279cdv3676-90lm06m0-b01k71.html"
+                    },
+                    {
+                        "title": "Asus ProArt Display PA279CRV Professional Monitor Best UK Price - Compare Prices Here - UK Stock",
+                        "url": "https://www.camerapricebuster.co.uk/Asus/Asus-Monitors/Asus-ProArt-Display-PA279CRV-Professional-Monitor"
+                    },
+                    {
+                        "title": "ProArt Display OLED PA279CDV\uff5cMonitors\uff5cASUS United Kingdom",
+                        "url": "https://www.asus.com/uk/displays-desktops/monitors/all-series/proart-display-oled-pa279cdv/helpdesk_knowledge?model2Name=ProArt-Display-OLED-PA279CDV"
+                    },
+                    {
+                        "title": "ASUS ProArt Display OLED PA279CDV 27 Inch (26.5-inch viewable) 4K UHD \u2013 Dynacore Technologies Pte Ltd",
+                        "url": "https://dynacoretech.com/products/asus-proart-display-oled-pa279cdv-27-inch-26-5-inch-viewable-4k-uhd-qd-oled-120hz-professional-monitor-pa279cdv"
+                    },
+                    {
+                        "title": "ASUS ProArt PA279CV 27\" 4K IPS LED Professional Monitor",
+                        "url": "https://www.ebay.de/itm/267257100957"
+                    }
+                ]
+            },
+            "Based on the search results, I found information about the ASUS PA279CDV monitor, though specific UK GBP pricing was limited in the results.\n\nHere's what I found:\n\n**US Pricing:**\nThe ASUS ProArt Display OLED PA279CDV is a 26.5-inch 4K QD-OLED monitor with 120Hz, factory calibration, 96W USB-C, and Auto KVM, available at a $699 US MSRP.\n\n**Monitor Specifications:**\nThe PA279CDV is a 26.5-inch 4K UHD QD-OLED professional monitor designed for content creators, video editors, and color-critical workflows, featuring 1000-nit peak brightness, 99% DCI-P3 color gamut, and Delta E < 1.5 factory calibration.\n\n**UK Availability:**\nI found a listing on the official ASUS UK store (uk.store.asus.com) for the PA279CDV, but the specific GBP price wasn't displayed in the search results. I recommend visiting the ASUS UK store directly or checking UK retailers like Amazon UK, Curry's, or specialist tech retailers for current GBP pricing, as UK prices typically reflect currency conversion plus VAT (20%)."
+        ],
+        "durationSeconds": 5.846557199000003,
+        "searchCount": 1
+    },
+    "origin": null
+}
