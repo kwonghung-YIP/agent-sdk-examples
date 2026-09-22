@@ -144,6 +144,17 @@ class OpenWeatherClient:
 client = OpenWeatherClient()
 mcp.tool(client.get_current)
 
+async def main() -> None:
+    
+    #await mcp.run_http_async(
+    #    stateless_http=True,
+    #    json_response=True,
+    #    transport="http", host="localhost", port=8080
+    #)
+    await client._client.aclose()
+
 if __name__ == "__main__":
-    mcp.run()
-    client._client.close()
+    #asyncio.run(main())
+    mcp.run(
+        transport="http", host="localhost", port=8080, json_response=True
+    )
