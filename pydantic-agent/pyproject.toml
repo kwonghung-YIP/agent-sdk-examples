@@ -10,6 +10,7 @@ requires-python = ">=3.14"
 dependencies = [
     "geopy[aiohttp]>=2.5.0",
     "pydantic-ai>=2.47.0",
+    "pydantic-ai-harness[playwright]>=0.34.0",
 ]
 
 [project.scripts]
