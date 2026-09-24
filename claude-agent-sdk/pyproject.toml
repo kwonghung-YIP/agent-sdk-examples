@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "claude-agent-sdk>=0.2.152",
+    "fastmcp>=4.0.9",
     "geopy[aiohttp]>=2.5.0",
 ]
 
