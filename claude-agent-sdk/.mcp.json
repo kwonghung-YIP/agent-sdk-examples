@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "nas-file-manager": {
+            "command": "fastmcp",
+            "args": [
+                "run", 
+                "src/simple-stdio-mcp-server.py",
+                "--transport",
+                "stdio"
+            ]
+        }
+    }
+}
