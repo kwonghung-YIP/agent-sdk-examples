@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "Great! The upload was successful. The file has been uploaded to the NAS with file ID `ef9a30f0-6787-4231-8b7b-542ee37f0e7d`.",
+            "signature": "EpIDCrIBCBIYAipAVNE+9c0qOi0Wsr9TPwiPyLAt9QzC2Ag0BqFlr4F4tu4aXz4gsguImegYtFyqOMAuE3N8djNvcyyfVoV/1+njTTIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAG0v9nVBrABAhIM5k2M8YO12gf/A/K6GgxUO13USOrIcw8lEJUiMOeFkOdkEcDQ2OCAUK+OW3s66YKlTctIj2RuRwRt3YpPf/3Ix9l7lfCf/wN39USHaCqMATABf6eYS7LX9wt88ng3ahbysLxBexWU9Y6mPlmh6Lksux0Mi7/EYbeiXY5yO25TyeJjZ2BeAqMcCOq9kjTUh1YMudMTSuOzzrMN9jHivzynFzTApBrgFCUEAweoVvweopY8I0dYNbfh/Tv2+fG5QBRsUUdeGjf2uNovcdlbGMfHpmVWwNmrZFHDRQYhGAE="
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 8,
+        "cache_creation_input_tokens": 319,
+        "cache_read_input_tokens": 14617,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 319,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CfQ771Vr7eLNV7BzbrjEJ",
+    "stop_reason": null,
+    "session_id": "cd953686-0f90-4d99-9406-401cf7737031",
+    "uuid": "3c7d16dc-834c-433c-9fe0-3a455e0e006d"
+}

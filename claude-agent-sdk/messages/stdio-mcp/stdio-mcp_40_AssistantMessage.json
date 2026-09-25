@@ -1,0 +1,27 @@
+{
+    "content": [
+        {
+            "thinking": "The user wants to upload a file `./file-sandbox/abc.txt` to their NAS. I need to use the `mcp__nas_file_manager__upload_file` tool which is listed in the deferred tools.\n\nFirst, I should fetch the schema for this tool using ToolSearch, then use it to upload the file.\n\nLet me start by fetching the tool schema.",
+            "signature": "EswECrIBCBIYAipASEitbV4bgntOmZy/OyHCWsVvS31RZae56sM86q9ghwwFEYJXM7VrzswbQFx79qdk1P3S2Tr3gQPKr/NlhtMBETIZY2xhdWRlLWhhaWt1LTQtNS0yMDI1MTAwMTgAQgh0aGlua2luZ1okMDJiMTdlZjgtNjA0Zi00NzEwLTk5YjktNTViMTZmMjMyYTVmchC8sY9BXgl0ADTPe+511yfEiAEBqAHXvtnVBrABAhIM8ov/7uqDzbFP5v6oGgxoFhxFyqHNmpgTjZAiMHd5PlGFmJYRLiADSF2cr/XMeeWL4RNayDodoW+6ZYuWFT1fPzK1JKjPOKC8A7hvTSrGAjpxoS2gQMp4ykqRzlNxbnInVYZr5+1t6j3/lQ8/pDY466QP1nx5we4ZKzK1trh4tt2L3NfLCUYpXRI2E6OgIu/DW3SDNqD7N9D3IvKC07iF5lozFITK5Nsh4UhSs84hK1tVPywAqyNXAyycclOG5w2zLKkXqMvRDQOqzw9tMGEYFeCE6Fw8gWqHk8+0WaTYnB3c0jlItjCxhfSZo+rhDZMdcI/UtD4R5NhhcljWw81HflY3dY8m8oQqaO1EgRDxUaEhdXolR1v5xwDGp0Nb6zSI+LV6bJFJqKBnUgQaOhHbtsalyam2c8Hh/4LoPA/g6Bp6gHu9HwWXGcMV0+lV4InsFv9LuFUAy08+ou9SBA+iLps5nYAFs5zytfIcCHPRH7iToxD8IZGXUJblErwr+FvdQD+myGFk92yKoeSpC3cRdLRFw2nnGAE="
+        }
+    ],
+    "model": "claude-haiku-4-5-20251001",
+    "parent_tool_use_id": null,
+    "error": null,
+    "usage": {
+        "input_tokens": 10,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 14256,
+        "cache_creation": {
+            "ephemeral_5m_input_tokens": 0,
+            "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 4,
+        "service_tier": "standard",
+        "inference_geo": "not_available"
+    },
+    "message_id": "msg_011CfQ6z8YZE8rfwbB18xJeA",
+    "stop_reason": null,
+    "session_id": "cd953686-0f90-4d99-9406-401cf7737031",
+    "uuid": "296d055d-c012-4375-8905-b5dce3c548b0"
+}

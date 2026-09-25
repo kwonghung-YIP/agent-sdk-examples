@@ -1,0 +1,24 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01CKfBzjGvrmYNZagYqF94df",
+            "content": [
+                {
+                    "type": "tool_reference",
+                    "tool_name": "mcp__nas_file_manager__upload_file"
+                }
+            ],
+            "is_error": null
+        }
+    ],
+    "uuid": "071b687a-510f-486b-be9f-91466fa3e884",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "matches": [
+            "mcp__nas_file_manager__upload_file"
+        ],
+        "query": "select:mcp__nas_file_manager__upload_file",
+        "total_deferred_tools": 22
+    },
+    "origin": null
+}

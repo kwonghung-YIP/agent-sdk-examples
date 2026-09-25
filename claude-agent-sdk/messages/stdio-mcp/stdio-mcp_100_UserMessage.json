@@ -1,0 +1,19 @@
+{
+    "content": [
+        {
+            "tool_use_id": "toolu_01SUQHmyd4U4Z4QUxVoRCQfA",
+            "content": "{\"success\":true,\"file_id\":\"ef9a30f0-6787-4231-8b7b-542ee37f0e7d\"}",
+            "is_error": null
+        }
+    ],
+    "uuid": "cb9a91da-2ed7-4263-bffc-a9ae5b3c4ae7",
+    "parent_tool_use_id": null,
+    "tool_use_result": {
+        "content": "{\"success\":true,\"file_id\":\"ef9a30f0-6787-4231-8b7b-542ee37f0e7d\"}",
+        "structuredContent": {
+            "success": true,
+            "file_id": "ef9a30f0-6787-4231-8b7b-542ee37f0e7d"
+        }
+    },
+    "origin": null
+}
