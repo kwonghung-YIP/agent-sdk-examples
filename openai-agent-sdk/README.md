@@ -13,3 +13,7 @@ uv run --env-file .env src/image-input.py
 - [OpenAI Agents SDK - GitHub](https://openai.github.io/openai-agents-python/)
 - [Agents SDK - OpenAI Developers Doc](https://developers.openai.com/api/docs/guides/agents)
 - [OpenAI Platform](https://platform.openai.com/home)
+- [OpenAI ShellTool](https://developers.openai.com/api/docs/guides/tools-shell?site_locale=en)
+- [OpenAI Skill Guide](https://developers.openai.com/api/docs/guides/tools-skills?site_locale=en)
+- [Agent Skills Overview](https://agentskills.io/home)
+- [PlayWright Config Reference](https://github.com/microsoft/playwright-mcp/blob/main/config.d.ts)

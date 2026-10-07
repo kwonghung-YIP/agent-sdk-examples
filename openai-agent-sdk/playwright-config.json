@@ -1,0 +1,6 @@
+{
+    "browser": {
+        "browserName": "chromium",
+        "cdpEndpoint": "http://localhost:9222"
+    }
+}
